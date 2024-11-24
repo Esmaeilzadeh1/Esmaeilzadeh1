@@ -1,3 +1,23 @@
+![image](https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=11111111)
+
+
 Theme Switcher
 <a href="[USERNAME]?tab=repositories&theme=dark" target="_blank">
 <img src="https://img.shields.io/badge/Theme-Dark-000000?style=for-the-badge&logo=github&logoColor=white" />
