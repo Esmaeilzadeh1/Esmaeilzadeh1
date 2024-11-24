@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/Esmaeilzadeh1">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Esmaeilzadeh1&bg_color=30,017133,CB8E22,E1E1E1,C60204&text_color=000000&title_color=017133&icon_color=CA8C21&border_color=C60204" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Esmaeilzadeh1&bg_color=F8F8F8&text_color=000000&title_color=017133&icon_color=CA8C21&border_color=D1D9E0" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&bg_color=F8F8F8&text_color=000000&title_color=017133&icon_color=CA8C21&border_color=C60204" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&bg_color=F8F8F8&text_color=000000&title_color=017133&icon_color=CA8C21&border_color=D1D9E0" />
   </a>
 </p>
 
