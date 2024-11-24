@@ -5,9 +5,6 @@
 
 
 
-![image](https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.svg)
-
-
 
 
 
@@ -224,4 +221,7 @@ https://orcid.org/0009-0003-6371-7607
 
 <p align="center">
   <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/thanks.gif" alt="end.gif" />
+</p>
+<p align="center">
+  <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.svg" alt="name.svg" />
 </p>
