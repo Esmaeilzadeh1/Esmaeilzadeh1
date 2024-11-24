@@ -1,3 +1,92 @@
+<!-- Animated Welcome Message -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D85C6&width=435&lines=Hi+👋+Welcome+to+my+GitHub+profile!;I'm+Amirhossein+Esmailzade)
+
+## 👨‍💻 About Me
+I'm a Software Engineering graduate student and software developer, currently engaged in academic research projects.
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A_esmailzade)
+
+## 🔬 Research Interests
+- Algorithms
+- Machine Learning
+- Quantum Computing
+- Image Processing
+- Computer Science and related fields
+
+## 💻 Technical Skills
+```python
+PROGRAMMING_LANGUAGES = {
+    'Advanced': ['Python', 'C++', 'Pascal'],
+    'Intermediate': ['MATLAB', 'LaTeX'],
+    'Basic': ['HTML', 'CSS']
+}
+
+FRAMEWORKS_LIBRARIES = {
+    'Web Development': ['WordPress'],
+    'Machine Learning': ['TensorFlow', 'RapidMiner'],
+    'Scientific Computing': ['NumPy', 'Pandas'],
+    'Version Control': ['Git', 'GitHub', 'GitLab']
+}
+```
+
+## 👔 Professional Experience
+- Over 7 years of online teaching experience in Computer Science
+- Founder and Manager of [bornaweb.com](https://bornaweb.com)
+- Expertise in team management and project leadership
+- Entrepreneur mindset with a focus on business ownership rather than employment
+
+## 📚 Educational Content
+<details>
+<summary>View Complete List of Educational Materials (Click to expand)</summary>
+
+| Course Title | Domain |
+|-------------|--------|
+| Stock Market Trading Fundamentals | Finance |
+| Data Mining with RapidMiner | Data Mining |
+| UML Modeling | Software Engineering |
+| C++ Programming | Programming |
+| Git and GitHub Professional Guide | Version Control |
+| LaTeX Professional Course | Technical Writing |
+| Quantum Computing | Computer Science |
+| Python Programming | Programming |
+| Algorithm Design | Computer Science |
+| Computer Architecture | Hardware |
+| Data Structures | Programming |
+| MATLAB Programming | Scientific Computing |
+| WordPress Development | Web Development |
+| HTML & CSS Professional Course | Web Development |
+| And more... | |
+
+</details>
+
+## 🚀 Current Projects
+1. BornaWeb Platform Development
+2. Quantum Version of Symbiotic Organisms Search Algorithm
+3. AI-based Alzheimer's Disease Detection System using MRI Data
+
+## 🎓 Education
+- BSc in Software Engineering
+- Currently pursuing MSc in Computer Engineering
+
+## 🌐 Personal Projects
+[![BornaWeb](https://img.shields.io/badge/BornaWeb-Visit%20Website-blue?style=for-the-badge)](https://bornaweb.com)
+
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🎯 Personal Interests
+- English Language Enthusiast
+- Sports: Swimming and Football
+- Arts: Pencil Drawing and Writing
+- Investment: Stock Market and Cryptocurrency Trading
+
+## 💭 Personal Motto
+> Looking for better results? Don't imitate, innovate or elevate. Your mind has its own unique algorithm!
+
+## 🤝 Let's Connect!
+Feel free to reach out for collaborations or just a friendly chat about technology!
+
+
 # Header h1
 ## Header h2
 ### Header h3
