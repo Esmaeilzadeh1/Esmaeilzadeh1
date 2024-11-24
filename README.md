@@ -1,5 +1,9 @@
+<center>This text will be centered</center>
+div { text-align: center; }
+<div> This text will be centered </div>
+h1::before { content: ""; display: block; margin: 0 auto; width: 0; height: 0; padding-top: 50%; }
+<h1>This heading will be centered</h1>
 
-<p style="text-align:center"> example text </p>
 
 
 ![image](https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.svg)
