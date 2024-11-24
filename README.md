@@ -1,13 +1,7 @@
-<p align="center">
-  <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/git-logo-4.gif" alt="image" style="width: 33%; float: left; margin: 0; padding: 0;"/>
-  Hello World!
-  <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/git-logo-2.gif" alt="image" style="width: 33%; float: left; margin: 0; padding: 0;"/>
-</p>
+![image](https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif)
 
 
 
-
-<img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.svg" alt="image" style="width: 33%; float: left; margin: 0; padding: 0;"/>
 ![image](https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.svg)
 ![image](https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/git-logo-4.gif)
 ![image](https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/git-logo-2.gif)
