@@ -1,7 +1,5 @@
-![good-boy](https://i.imgur.com/xtoLyW2.jpg  "Good boy on boat")
 
-$$\text{This is some centered text}$$
-
+<p style="text-align:center"> example text </p>
 
 
 ![image](https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.svg)
