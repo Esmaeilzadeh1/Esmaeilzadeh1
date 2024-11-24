@@ -1,0 +1,66 @@
+/* الکی استایل */
+body {
+  background: repeating-linear-gradient(
+    45deg,
+    #ff007f,
+    #ff007f 10px,
+    #7f00ff 10px,
+    #7f00ff 20px
+  );
+  animation: spinny-colors 5s infinite alternate;
+  font-family: "Comic Sans MS", cursive, sans-serif; /* برای شوخی */
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #00ff7f;
+  text-shadow: 2px 2px #000, -2px -2px #ff0;
+  animation: wiggle 2s infinite;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #ff4500;
+  border: 2px solid #000;
+  border-radius: 20px;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  box-shadow: 0px 5px 0px #7f00ff;
+  animation: bouncey 3s infinite ease-in-out;
+}
+
+button:hover {
+  background-color: #00ffff;
+  box-shadow: 0px 10px 20px #ff007f;
+  transform: scale(1.1);
+}
+
+/* انیمیشن‌های بی‌دلیل */
+@keyframes spinny-colors {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}
+
+@keyframes wiggle {
+  0%, 100% {
+    transform: rotate(-5deg);
+  }
+  50% {
+    transform: rotate(5deg);
+  }
+}
+
+@keyframes bouncey {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
