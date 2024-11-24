@@ -1,13 +1,6 @@
-![image](https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif)
-
 <p align="center">
   <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif" alt="Name GIF" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Esmaeilzadeh1/Esmaeilzadeh1/main/name.gif" alt="Name GIF" />
-</p>
-
 
 
 
