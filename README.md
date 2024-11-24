@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.svg" alt="image" style="width: 30%;"/>
-  <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/git-logo-4.gif" alt="image" style="width: 30%;"/>
-  <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/git-logo-2.gif" alt="image" style="width: 30%;"/>
+<p align="center" style="display: flex; gap: 0;">
+  <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.svg" alt="image" style="width: 33%; margin: 0; padding: 0;"/>
+  <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/git-logo-4.gif" alt="image" style="width: 33%; margin: 0; padding: 0;"/>
+  <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/git-logo-2.gif" alt="image" style="width: 33%; margin: 0; padding: 0;"/>
 </p>
+
 
 
 
