@@ -20,13 +20,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=11111111)
 
 
-Theme Switcher
-<a href="[USERNAME]?tab=repositories&theme=dark" target="_blank">
-<img src="https://img.shields.io/badge/Theme-Dark-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="[USERNAME]?tab=repositories&theme=light" target="_blank">
-<img src="https://img.shields.io/badge/Theme-Light-ffffff?style=for-the-badge&logo=github&logoColor=black" />
-</a>
 
 [![Theme](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=🌓+Click+to+change+theme)](YOUR_REPO_URL)
 
