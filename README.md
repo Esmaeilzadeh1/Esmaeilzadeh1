@@ -2,22 +2,17 @@
   <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif" alt="start.gif" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Esmaeilzadeh1">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Esmaeilzadeh1&bg_color=F8F8F8&text_color=000000&title_color=017133&icon_color=CA8C21&border_color=C60204" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&bg_color=F8F8F8&text_color=000000&title_color=017133&icon_color=CA8C21&border_color=C60204" />
+  </a>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=F8F8F8" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&bg_color=F8F8F8" />
-</a>
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 
 
