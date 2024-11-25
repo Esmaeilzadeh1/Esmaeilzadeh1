@@ -27,7 +27,7 @@
 
 <!-- ############################# Interests of research ############################# -->
 
-# 🔬 Academic research interests
+# 🎓 Academic research interests
 <details>
   <summary>Click to see</summary>
   <p align="center">
