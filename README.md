@@ -10,7 +10,7 @@
 > I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad Branch*.<br> I also earned my Bachelor's degree from the same university.<br> Currently, I am engaged in university studies and academic research.
 
 <details>
-  <summary>📩Contact Me📩</summary>
+  <summary>✉ Contact Me</summary>
   <p align="center"><p>
     <p align="center">
       👇 You can contact me by sending me a message on Telegram. 👇
