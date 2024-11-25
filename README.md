@@ -36,7 +36,7 @@
   - Deep learning
   - Quantum Computing
   - Image Processing
-  - ...
+  - Other areas related to computer science and...
 
   </p>
 </details>
