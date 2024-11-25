@@ -12,6 +12,7 @@ I also earned my Bachelor's degree from the same university.
 Currently, I am engaged in university studies and academic research.
 <details>
   <summary>📩Contact Me📩</summary>
+  <p align="center"><p>
   <p align="center">
     👇 I am usually available through Telegram Messenger. You can contact me by sending me a message on Telegram. 👇
       <p align="center">
