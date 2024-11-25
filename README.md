@@ -27,12 +27,22 @@
 
 <!-- ############################# Interests of research ############################# -->
 
-## 🔬 Research Interests
-- Algorithms
-- Machine Learning
-- Quantum Computing
-- Image Processing
-- Computer Science and related fields
+# 🔬 Academic research interests
+<details>
+  <summary>Click to see</summary>
+  <p align="center">
+    
+  - Algorithms
+  - Deep learning
+  - Quantum Computing
+  - Image Processing
+  - ...
+
+  </p>
+</details>
+
+
+
 
 
 
