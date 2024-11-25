@@ -1,12 +1,20 @@
 <!-- ############################# Welcome ############################# -->
+
 <p align="center">
   <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif" alt="start.gif" />
 </p>
+
 <!-- ############################# Personal information ############################# -->
+
 ## 👨‍💻 About Me
 I am a Master's student in Computer Engineering. Currently, I am engaged in university studies and academic research.
 
-
+## 🔬 Research Interests
+- Algorithms
+- Machine Learning
+- Quantum Computing
+- Image Processing
+- Computer Science and related fields
 
 
 
