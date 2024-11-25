@@ -5,10 +5,10 @@
 <!-- ############################# Stats ############################# -->
 <p align="center">
   <a href="https://github.com/Esmaeilzadeh1">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=anuraghazra&rank_icon=github&show_icons=true&title_color=000000&icon_color=000000&text_color=000000f&border_color=000000&bg_color=FFFFFF" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=anuraghazra&rank_icon=github&show_icons=true&title_color=000000&icon_color=000000&text_color=000000f&border_color=000000&bg_color=#F8F8F8" />
   </a>
   <a href="https://github.com/Esmaeilzadeh1">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&title_color=000000&text_color=000000&border_color=000000&bg_color=#F8F8F8" />
   </a>
 </p>
 
