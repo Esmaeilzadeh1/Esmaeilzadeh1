@@ -5,15 +5,16 @@
 <!-- ############################# Stats ############################# -->
 <p align="center">
   <a href="https://github.com/Esmaeilzadeh1">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=esmaeilzadeh1&bg_color=F8F8F8&text_color=000000&title_color=59636E&icon_color=59636E&border_color=D1D9E0" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=anuraghazra&rank_icon=github&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
   <a href="https://github.com/Esmaeilzadeh1">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esmaeilzadeh1&layout=compact&langs_count=4&card_width=256&bg_color=F8F8F8&text_color=000000&title_color=59636E&icon_color=59636E&border_color=D1D9E0" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
   </a>
 </p>
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github)
 
 
 
