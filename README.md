@@ -7,20 +7,21 @@
 <!-- ############################# Personal information ############################# -->
 
 # 👨‍💻 About Me
-I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad branch*.  
+I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad Branch*.  
 I also earned my Bachelor's degree from the same university.
 Currently, I am engaged in university studies and academic research.
 <details>
   <summary>📩Contact Me📩</summary>
   <p align="center">
-    👇 I am usually available through Telegram messenger. You can contact me by sending me a message on Telegram. 👇
-  </p>
-  <p align="center">
+    👇 I am usually available through Telegram Messenger. You can contact me by sending me a message on Telegram. 👇
+      <p align="center">
     <a href="https://t.me/A_esmailzade">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" height="40" width="150" alt="Telegram" />
     </a>
   </p>
+  </p>
 </details>
+
 
 
 ## 🔬 Research Interests
