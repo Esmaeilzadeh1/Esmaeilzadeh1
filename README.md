@@ -13,14 +13,26 @@ Currently, I am engaged in university studies and academic research.
 <details>
   <summary>📩Contact Me📩</summary>
   <p align="center"><p>
-  <p align="center">
-    👇 I am usually available through Telegram Messenger. You can contact me by sending me a message on Telegram. 👇
-      <p align="center">
-    <a href="https://t.me/A_esmailzade">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" height="40" width="150" alt="Telegram" />
-    </a>
+    <p align="center">
+      👇 I am usually available through Telegram Messenger. You can contact me by sending me a message on Telegram. 👇
+        <p align="center">
+      <a href="https://t.me/A_esmailzade">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" height="40" width="150" alt="Telegram" />
+      </a>
+    </p>
   </p>
-  </p>
+  
+  # Important Notices <!-- omit in toc -->
+
+> [!IMPORTANT]\
+> Since the GitHub API only [allows 5k requests per hour per user account](https://docs.github.com/en/graphql/overview/resource-limitations), the public Vercel instance hosted on `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter (see [#1471](https://github.com/anuraghazra/github-readme-stats/issues/1471)). We use caching to prevent this from happening (see https://github.com/anuraghazra/github-readme-stats#common-options). You can turn off these rate limit protections by deploying [your own Vercel instance](#disable-rate-limit-protections).
+
+> [!WARNING]\
+> By default, the stats card only shows statistics like stars, commits, and pull requests from public repositories. To show private statistics on the stats card, you should [deploy your own instance](#deploy-on-your-own) using your own GitHub API token.
+
+> [!NOTE]\
+> Available ranks are S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone). This ranking scheme is based on the [Japanese academic grading](https://wikipedia.org/wiki/Academic_grading_in_Japan) system. The global percentile is calculated as a weighted sum of percentiles for each statistic (number of commits, pull requests, reviews, issues, stars, and followers), based on the cumulative distribution function of the [exponential](https://wikipedia.org/wiki/exponential_distribution) and the [log-normal](https://wikipedia.org/wiki/Log-normal_distribution) distributions. The implementation can be investigated at [src/calculateRank.js](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js). The circle around the rank shows 100 minus the global percentile.
+  
 </details>
 
 
