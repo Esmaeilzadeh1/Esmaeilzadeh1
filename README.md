@@ -25,7 +25,24 @@
   </p>
 </details>
 
-<!-- ############################# Personal information ############################# -->
+<!-- ############################# Interests of research ############################# -->
+
+## 🔬 Research Interests
+- Algorithms
+- Machine Learning
+- Quantum Computing
+- Image Processing
+- Computer Science and related fields
+
+
+
+
+
+
+
+
+
+
 
 # Important Notices <!-- omit in toc -->
 
@@ -58,12 +75,7 @@ https://github.blog/developer-skills/github/include-diagrams-markdown-files-merm
 
 
 
-## 🔬 Research Interests
-- Algorithms
-- Machine Learning
-- Quantum Computing
-- Image Processing
-- Computer Science and related fields
+
 
 
 
