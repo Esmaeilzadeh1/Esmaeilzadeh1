@@ -7,13 +7,9 @@
 <!-- ############################# Personal information ############################# -->
 
 # 👨‍💻 About Me
-> I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad Branch* <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/uni.png" alt="icon" width="16" height="16">.<br> 
+> I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad Branch*.<img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/uni.png" alt="icon" width="16" height="25"><br> 
 > I have worked as an online course instructor as well as a programmer and website designer, and I am also the founder of BornaWeb.<br> 
 > Currently, I am engaged in university studies and academic research.
-
-
-# 👨‍💻 About Me
-> I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad Branch*.<br> I have worked as an online course instructor as well as a programmer and website designer, and I am also the founder of BornaWeb.<br> Currently, I am engaged in university studies and academic research.
 
 <details>
   <summary>✉ Contact Me</summary>
@@ -28,7 +24,7 @@
   </p>
 </details>
 
-
+<!-- ############################# Personal information ############################# -->
 
 # Important Notices <!-- omit in toc -->
 
