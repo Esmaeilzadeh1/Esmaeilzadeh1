@@ -7,9 +7,10 @@
 <!-- ############################# Personal information ############################# -->
 
 # 👨‍💻 About Me
-I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad Branch*.  
-I also earned my Bachelor's degree from the same university.
-Currently, I am engaged in university studies and academic research.
+> I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad Branch*.  
+> I also earned my Bachelor's degree from the same university.
+> Currently, I am engaged in university studies and academic research.
+
 <details>
   <summary>📩Contact Me📩</summary>
   <p align="center"><p>
