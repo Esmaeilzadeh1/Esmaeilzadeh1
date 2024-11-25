@@ -8,9 +8,10 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=esmaeilzadeh1&bg_color=F8F8F8&text_color=000000&title_color=59636E&icon_color=59636E&border_color=D1D9E0" />
   </a>
   <a href="https://github.com/Esmaeilzadeh1">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esmaeilzadeh1&layout=compact&langs_count=4&card_width=320&bg_color=F8F8F8&text_color=000000&title_color=59636E&icon_color=59636E&border_color=D1D9E0" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esmaeilzadeh1&layout=compact&langs_count=4&card_width=256&bg_color=F8F8F8&text_color=000000&title_color=59636E&icon_color=59636E&border_color=D1D9E0" />
   </a>
 </p>
+
 
 
 
