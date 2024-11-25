@@ -7,12 +7,9 @@
 <!-- ############################# Personal information ############################# -->
 
 # 👨‍💻 About Me
-<details>
-  <summary>Click to expand</summary>
   I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad branch*.  
   I also earned my Bachelor's degree from the same university.  
   Currently, I am engaged in university studies and academic research.
-</details>
 
 
 ## 🔬 Research Interests
