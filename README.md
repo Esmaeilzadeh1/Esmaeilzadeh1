@@ -6,8 +6,14 @@
 
 <!-- ############################# Personal information ############################# -->
 
-## 👨‍💻 About Me
-I am a Master's student in Computer Engineering. Currently, I am engaged in university studies and academic research.
+# 👨‍💻 About Me
+<details>
+  <summary>Click to expand</summary>
+  I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad branch*.  
+  I also earned my Bachelor's degree from the same university.  
+  Currently, I am engaged in university studies and academic research.
+</details>
+
 
 ## 🔬 Research Interests
 - Algorithms
@@ -53,7 +59,7 @@ I am a Master's student in Computer Engineering. Currently, I am engaged in univ
 - Machine Learning
 - Quantum Computing
 - Image Processing
-- Computer Science and related fields
+- Computer Science and related fields...
 
 ## 💻 Technical Skills
 ```python
