@@ -13,10 +13,9 @@ Currently, I am engaged in university studies and academic research.
 <details>
   <summary>Contact Me</summary>
   I am usually available via the Telegram messaging app. Feel free to reach out to me by sending a message on Telegram.
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A_esmailzade)
 </details>
 
-Contact Me:
-I am usually available via the Telegram messaging app. Feel free to reach out to me by sending a message on Telegram.
 
 ## 🔬 Research Interests
 - Algorithms
@@ -55,7 +54,7 @@ I am usually available via the Telegram messaging app. Feel free to reach out to
 
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A_esmailzade)
+
 
 ## 🔬 Research Interests
 - Algorithms
