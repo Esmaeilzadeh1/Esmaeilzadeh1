@@ -7,7 +7,7 @@
 <!-- ############################# Personal information ############################# -->
 
 # 👨‍💻 About Me
-> I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad Branch*.<br> Currently, I am engaged in university studies and academic research.
+> I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad Branch*.<br> Currently, I am engaged in university studies and academic research.<br> I have worked as an online course instructor as well as a programmer and website designer, and I am also the founder of BornaWeb.
 
 <details>
   <summary>✉ Contact Me</summary>
