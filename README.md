@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif" alt="start.gif" />
 </p>
-
-
-
+<!-- ############################# Personal information ############################# -->
+## 👨‍💻 About Me
+I am a Master's student in Computer Engineering. Currently, I am engaged in university studies and academic research.
 
 
 
@@ -36,8 +36,7 @@
 
 
 
-## 👨‍💻 About Me
-I'm a Software Engineering graduate student and software developer, currently engaged in academic research projects.
+
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A_esmailzade)
 
