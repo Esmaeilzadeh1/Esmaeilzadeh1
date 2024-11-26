@@ -209,9 +209,11 @@ skills = {
 <details>
   <summary>Showcase Main Project or Its Demo (Click to expand)</summary>
   <p align="center"></p>
+  <p align="center">
   
   [![BornaWeb](https://img.shields.io/badge/BornaWeb-Visit%20Website-blue?style=for-the-badge)](https://bornaweb.com)
-
+  
+  </p>
 </details>
 
 <!-- ############################# GitHub Stats ############################# -->
@@ -227,7 +229,7 @@ skills = {
 </p>
 <p align="center">
   <a href="#">
-    <img height=291.5 align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&row=2&column=5" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&row=2&column=5" />
   </a>
 </p>
 
