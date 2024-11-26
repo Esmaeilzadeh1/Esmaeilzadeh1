@@ -55,18 +55,63 @@
   <summary>View Educational Notebook Titles (Click to expand)</summary>
   <p align="center"></p>
   <div align="center">
-  
-  | Course Title | Domain | Course Title | Domain |
-  |:------------:|:------:|:------------:|:------:|
-  | Stock Market Trading Fundamentals | Finance | Data Mining with RapidMiner | Data Mining |
-  | UML Modeling | Software Engineering | C++ Programming | Programming |
-  | Git and GitHub Professional Guide | Version Control | LaTeX Professional Course | Technical Writing |
-  | Quantum Computing | Computer Science | Python Programming | Programming |
-  | Algorithm Design | Computer Science | Computer Architecture | Hardware |
-  | Data Structures | Programming | MATLAB Programming | Scientific Computing |
-  | WordPress Development | Web Development | HTML & CSS Professional Course | Web Development |
-  | And more... | - | - | - |
-  
+     <table border="1">
+      <thead>
+        <tr>
+          <th align="center">Course Title</th>
+          <th align="center">Domain</th>
+          <th align="center">Course Title</th>
+          <th align="center">Domain</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center">Stock Market Trading Fundamentals</td>
+          <td align="center">Finance</td>
+          <td align="center">Data Mining with RapidMiner</td>
+          <td align="center">Data Mining</td>
+        </tr>
+        <tr>
+          <td align="center">UML Modeling</td>
+          <td align="center">Software Engineering</td>
+          <td align="center">C++ Programming</td>
+          <td align="center">Programming</td>
+        </tr>
+        <tr>
+          <td align="center">Git and GitHub Professional Guide</td>
+          <td align="center">Version Control</td>
+          <td align="center">LaTeX Professional Course</td>
+          <td align="center">Technical Writing</td>
+        </tr>
+        <tr>
+          <td align="center">Quantum Computing</td>
+          <td align="center">Computer Science</td>
+          <td align="center">Python Programming</td>
+          <td align="center">Programming</td>
+        </tr>
+        <tr>
+          <td align="center">Algorithm Design</td>
+          <td align="center">Computer Science</td>
+          <td align="center">Computer Architecture</td>
+          <td align="center">Hardware</td>
+        </tr>
+        <tr>
+          <td align="center">Data Structures</td>
+          <td align="center">Programming</td>
+          <td align="center">MATLAB Programming</td>
+          <td align="center">Scientific Computing</td>
+        </tr>
+        <tr>
+          <td align="center">WordPress Development</td>
+          <td align="center">Web Development</td>
+          <td align="center">HTML & CSS Professional Course</td>
+          <td align="center">Web Development</td>
+        </tr>
+        <tr>
+          <td colspan="4" align="center">And more...</td>
+        </tr>
+      </tbody>
+     </table>
   </div>
 </details>
 
