@@ -21,7 +21,7 @@
   </p>
   <p align="center">
     <a href="#">
-      <img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Esmaeilzadeh1&theme=oldie&row=1&column=10" />
+      <img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Esmaeilzadeh1&theme=oldie&row=1&column=8" />
     </a>
 </p>
 
