@@ -6,7 +6,9 @@
 <!-- ______________________________________________________________________________________________________________________________ -->
 <!-- ############################# GitHub Stats ############################# -->
 
-# 📊 GitHub Statistics
+<p align="center">
+  📉 My GitHub statistics 📈
+</p>
 <p align="center">
     <a href="#">
       <img width=58.93% align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=1F2328&icon_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&border_radius=9" />
