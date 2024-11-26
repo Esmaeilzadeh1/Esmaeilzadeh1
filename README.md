@@ -169,6 +169,7 @@ skills = {
     "Other Skills": ["Graphic Design", "UI/UX"]
 }
 ```
+
 <details>
   <summary>The Tree Representation of Skills (Click to expand)</summary>
   <p align="center"></p>
