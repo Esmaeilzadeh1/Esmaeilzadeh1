@@ -56,23 +56,16 @@
   <p align="center"></p>
   <div align="center">
   
-  | Serial | Course Title | Domain | Badge |
-  |:------:|:------------:|:------:|:-----:|
-  | 1 | Stock Market Trading Fundamentals | Finance | 💹 |
-  | 2 | Data Mining with RapidMiner | Data Mining | 📊 |
-  | 3 | UML Modeling | Software Engineering | 📐 |
-  | 4 | C++ Programming | Programming | 💻 |
-  | 5 | Git and GitHub Professional Guide | Version Control | 🔀 |
-  | 6 | LaTeX Professional Course | Technical Writing | 📝 |
-  | 7 | Quantum Computing | Computer Science | 🔬 |
-  | 8 | Python Programming | Programming | 🐍 |
-  | 9 | Algorithm Design | Computer Science | 🧠 |
-  | 10 | Computer Architecture | Hardware | 🖥️ |
-  | 11 | Data Structures | Programming | 📚 |
-  | 12 | MATLAB Programming | Scientific Computing | 🔢 |
-  | 13 | WordPress Development | Web Development | 🌐 |
-  | 14 | HTML & CSS Professional Course | Web Development | 🎨 |
-  | 15 | And more... | - | 🔜 |
+  | Course Title | Domain | Course Title | Domain |
+  |:------------:|:------:|:------------:|:------:|
+  | Stock Market Trading Fundamentals | Finance | Data Mining with RapidMiner | Data Mining |
+  | UML Modeling | Software Engineering | C++ Programming | Programming |
+  | Git and GitHub Professional Guide | Version Control | LaTeX Professional Course | Technical Writing |
+  | Quantum Computing | Computer Science | Python Programming | Programming |
+  | Algorithm Design | Computer Science | Computer Architecture | Hardware |
+  | Data Structures | Programming | MATLAB Programming | Scientific Computing |
+  | WordPress Development | Web Development | HTML & CSS Professional Course | Web Development |
+  | And more... | - | - | - |
   
   </div>
 </details>
