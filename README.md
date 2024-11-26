@@ -142,34 +142,30 @@
 <!-- ############################# Skills ############################# -->
 
 ## 💻 Technical Skills
-```python
-PROGRAMMING_LANGUAGES = {
-    'Advanced': ['Python', 'C++', 'Pascal'],
-    'Intermediate': ['MATLAB', 'LaTeX'],
-    'Basic': ['HTML', 'CSS']
-}
-
-FRAMEWORKS_LIBRARIES = {
-    'Web Development': ['WordPress'],
-    'Machine Learning': ['TensorFlow', 'RapidMiner'],
-    'Scientific Computing': ['NumPy', 'Pandas'],
-    'Version Control': ['Git', 'GitHub', 'GitLab']
-}
-```
-
-
 ```mermaid
 graph TD;
     A[Skills] --> B[Programming];
-    A --> C[Design];
-    A --> D[Soft Skills];
-    B --> B1[Python];
-    B --> B2[JavaScript];
-    B --> B3[C++];
-    C --> C1[UI/UX];
-    C --> C2[Graphic Design];
-    D --> D1[Leadership];
-    D --> D2[Communication];
+    A --> C[Web Development];
+    A --> D[Mathematics & Scripting];
+    A --> E[Other Skills];
+    
+    B --> B1[C];
+    B --> B2[C++];
+    B --> B3[Pascal];
+    B --> B4[Python];
+    B --> B5[MATLAB];
+    B --> B6[TeX];
+    
+    C --> C1[HTML];
+    C --> C2[CSS];
+    C --> C3[JavaScript];
+    C --> C4[PHP];
+    
+    D --> D1[MATLAB];
+    D --> D2[TeX];
+    
+    E --> E1[Graphic Design];
+    E --> E2[UI/UX];
 ```
 
 
