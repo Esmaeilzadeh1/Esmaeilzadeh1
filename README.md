@@ -3,6 +3,23 @@
 <p align="center">
   <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif" alt="start.gif" />
 </p>
+<!-- ______________________________________________________________________________________________________________________________ -->
+<!-- ############################# GitHub Stats ############################# -->
+
+# 📊 GitHub Statistics
+<p align="center">
+  <a href="#">
+    <img width=53.5% align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=1F2328&icon_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&border_radius=9" />
+  </a>
+  <a href="#">
+    <img width=36.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&theme=transparent&border_radius=9" />
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&row=1&column=10" />
+  </a>
+</p>
 
 <!-- ############################# Personal information ############################# -->
 
@@ -216,47 +233,11 @@ skills = {
   </p>
 </details>
 
-<!-- ############################# GitHub Stats ############################# -->
-
-# 📊 GitHub Statistics
-<p align="center">
-  <a href="#">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=1F2328&icon_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&border_radius=9" />
-  </a>
-  <a href="#">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&theme=transparent&border_radius=9" />
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&row=2&column=5" />
-  </a>
-</p>
-
-
-
+<!-- ############################# Gists & Repositories ############################# -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-
-
-
-https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/
-
-
-# Important Notices <!-- omit in toc -->
-
-> [!IMPORTANT]\
-> Since the GitHub API only [allows 5k requests per hour per user account](https://docs.github.com/en/graphql/overview/resource-limitations), the public Vercel instance hosted on `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter (see [#1471](https://github.com/anuraghazra/github-readme-stats/issues/1471)). We use caching to prevent this from happening (see https://github.com/anuraghazra/github-readme-stats#common-options). You can turn off these rate limit protections by deploying [your own Vercel instance](#disable-rate-limit-protections).
-
-> [!WARNING]\
-> By default, the stats card only shows statistics like stars, commits, and pull requests from public repositories. To show private statistics on the stats card, you should [deploy your own instance](#deploy-on-your-own) using your own GitHub API token.
-
-> [!NOTE]\
-> Available ranks are S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone). This ranking scheme is based on the [Japanese academic grading](https://wikipedia.org/wiki/Academic_grading_in_Japan) system. The global percentile is calculated as a weighted sum of percentiles for each statistic (number of commits, pull requests, reviews, issues, stars, and followers), based on the cumulative distribution function of the [exponential](https://wikipedia.org/wiki/exponential_distribution) and the [log-normal](https://wikipedia.org/wiki/Log-normal_distribution) distributions. The implementation can be investigated at [src/calculateRank.js](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js). The circle around the rank shows 100 minus the global percentile.
-
-https://orcid.org/0009-0003-6371-7607
 
 <!-- ############################# Start ############################# -->
 
@@ -268,3 +249,8 @@ https://orcid.org/0009-0003-6371-7607
 <p align="center">
   <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/thanks.gif" alt="end.gif" />
 </p>
+
+
+https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/
+
+https://orcid.org/0009-0003-6371-7607
