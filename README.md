@@ -233,13 +233,6 @@ skills = {
 
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&bg_color=F8F8F8)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
