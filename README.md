@@ -29,6 +29,7 @@
 # 🎓 Academic research interests
 <details>
   <summary>Click to see</summary>
+  <p align="center"></p>
     
   - Algorithms
   - Deep learning
