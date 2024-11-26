@@ -7,7 +7,7 @@
 <!-- ############################# GitHub Stats ############################# -->
 
 <p align="center">
-  📉 My GitHub statistics 📈
+  __________📉 My GitHub statistics 📈__________
 </p>
 <p align="center">
     <a href="#">
