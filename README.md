@@ -41,12 +41,12 @@
 
 <!-- ############################# Interests of research ############################# -->
 
-  <p align="justify">
-    
+<p style="text-align: justify;">
+  
   # 👔 Professional Experience
   > I have over 7 years of experience in online teaching in the field of computer science. I am the founder and manager of bornaweb.com, and my company will be registered soon under the same name. I prefer to work as an entrepreneur or employer rather than as an employee. I prioritize team management and interaction with individuals to achieve a desirable outcome. I have also written numerous educational notebooks where I have documented my knowledge and experiences.
 
-  </p> 
+</p>
 <details>
   <summary>View Educational Notebook Titles (Click to expand)</summary>
   <p align="center"></p>
