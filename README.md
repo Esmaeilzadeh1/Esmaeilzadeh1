@@ -42,6 +42,34 @@
 
 <!-- ############################# Interests of research ############################# -->
 
+# 👔 Professional Experience
+> I have over 7 years of experience in online teaching in the field of computer science. I am the founder and manager of bornaweb.com, and my company will be registered soon under the same name. I prefer to work as an entrepreneur or employer rather than as an employee. I prioritize team management and interaction with individuals to achieve a desirable outcome. I have also written numerous educational notebooks where I have documented my knowledge and experiences.
+> 
+<details>
+<summary>View Educational Notebook Titles (Click to expand)</summary>
+
+| Course Title | Domain |
+|-------------|--------|
+| Stock Market Trading Fundamentals | Finance |
+| Data Mining with RapidMiner | Data Mining |
+| UML Modeling | Software Engineering |
+| C++ Programming | Programming |
+| Git and GitHub Professional Guide | Version Control |
+| LaTeX Professional Course | Technical Writing |
+| Quantum Computing | Computer Science |
+| Python Programming | Programming |
+| Algorithm Design | Computer Science |
+| Computer Architecture | Hardware |
+| Data Structures | Programming |
+| MATLAB Programming | Scientific Computing |
+| WordPress Development | Web Development |
+| HTML & CSS Professional Course | Web Development |
+| And more... | |
+
+</details>
+
+<!-- ############################# Interests of research ############################# -->
+
 ## 💻 Technical Skills
 ```python
 PROGRAMMING_LANGUAGES = {
