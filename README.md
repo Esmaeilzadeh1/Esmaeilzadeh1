@@ -40,7 +40,23 @@
   </p>
 </details>
 
+<!-- ############################# Interests of research ############################# -->
 
+## 💻 Technical Skills
+```python
+PROGRAMMING_LANGUAGES = {
+    'Advanced': ['Python', 'C++', 'Pascal'],
+    'Intermediate': ['MATLAB', 'LaTeX'],
+    'Basic': ['HTML', 'CSS']
+}
+
+FRAMEWORKS_LIBRARIES = {
+    'Web Development': ['WordPress'],
+    'Machine Learning': ['TensorFlow', 'RapidMiner'],
+    'Scientific Computing': ['NumPy', 'Pandas'],
+    'Version Control': ['Git', 'GitHub', 'GitLab']
+}
+```
 
 
 
@@ -118,28 +134,8 @@ https://github.blog/developer-skills/github/include-diagrams-markdown-files-merm
 
 
 
-## 🔬 Research Interests
-- Algorithms
-- Machine Learning
-- Quantum Computing
-- Image Processing
-- Computer Science and related fields...
 
-## 💻 Technical Skills
-```python
-PROGRAMMING_LANGUAGES = {
-    'Advanced': ['Python', 'C++', 'Pascal'],
-    'Intermediate': ['MATLAB', 'LaTeX'],
-    'Basic': ['HTML', 'CSS']
-}
 
-FRAMEWORKS_LIBRARIES = {
-    'Web Development': ['WordPress'],
-    'Machine Learning': ['TensorFlow', 'RapidMiner'],
-    'Scientific Computing': ['NumPy', 'Pandas'],
-    'Version Control': ['Git', 'GitHub', 'GitLab']
-}
-```
 
 ## 👔 Professional Experience
 - Over 7 years of online teaching experience in Computer Science
