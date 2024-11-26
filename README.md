@@ -48,26 +48,29 @@
 
   </p> 
 <details>
-<summary>View Educational Notebook Titles (Click to expand)</summary>
-
-| Course Title | Domain |
-|-------------|--------|
-| Stock Market Trading Fundamentals | Finance |
-| Data Mining with RapidMiner | Data Mining |
-| UML Modeling | Software Engineering |
-| C++ Programming | Programming |
-| Git and GitHub Professional Guide | Version Control |
-| LaTeX Professional Course | Technical Writing |
-| Quantum Computing | Computer Science |
-| Python Programming | Programming |
-| Algorithm Design | Computer Science |
-| Computer Architecture | Hardware |
-| Data Structures | Programming |
-| MATLAB Programming | Scientific Computing |
-| WordPress Development | Web Development |
-| HTML & CSS Professional Course | Web Development |
-| And more... | |
-
+  <summary>View Educational Notebook Titles (Click to expand)</summary>
+  <p align="center"></p>
+  <p align="center"> 
+    
+  | Course Title | Domain |
+  |-------------|--------|
+  | Stock Market Trading Fundamentals | Finance |
+  | Data Mining with RapidMiner | Data Mining |
+  | UML Modeling | Software Engineering |
+  | C++ Programming | Programming |
+  | Git and GitHub Professional Guide | Version Control |
+  | LaTeX Professional Course | Technical Writing |
+  | Quantum Computing | Computer Science |
+  | Python Programming | Programming |
+  | Algorithm Design | Computer Science |
+  | Computer Architecture | Hardware |
+  | Data Structures | Programming |
+  | MATLAB Programming | Scientific Computing |
+  | WordPress Development | Web Development |
+  | HTML & CSS Professional Course | Web Development |
+  | And more... | |
+    
+  </p>
 </details>
 
 <!-- ############################# Interests of research ############################# -->
