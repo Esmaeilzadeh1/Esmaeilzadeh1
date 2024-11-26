@@ -223,15 +223,10 @@ skills = {
   <a href="#">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&theme=transparent&border_radius=9" />
   </a>
-  <a href="#">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie" />
-  </a>
 </p>
-<p align="center"></p>
-
 <p align="center">
   <a href="#">
-    <img height=180 align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&row=2&column=5" />
+    <img height=292 align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&row=2&column=5" />
   </a>
 </p>
 
