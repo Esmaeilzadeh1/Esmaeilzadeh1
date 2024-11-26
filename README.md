@@ -8,17 +8,17 @@
 
 # 📊 GitHub Statistics
 <p align="center">
-  <a href="#">
-    <img width=53.5% align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=1F2328&icon_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&border_radius=9" />
-  </a>
-  <a href="#">
-    <img width=36.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&theme=transparent&border_radius=9" />
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&row=1&column=10" />
-  </a>
+    <a href="#">
+      <img width=58.93% align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=1F2328&icon_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&border_radius=9" />
+    </a>
+    <a href="#">
+      <img width=40.2% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&theme=transparent&border_radius=9" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="#">
+      <img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&row=1&column=10" />
+    </a>
 </p>
 
 <!-- ############################# Personal information ############################# -->
