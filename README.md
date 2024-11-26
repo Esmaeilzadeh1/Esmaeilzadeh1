@@ -66,15 +66,9 @@
       </thead>
       <tbody>
         <tr>
-          <td align="center">Stock Market Trading Fundamentals</td>
-          <td align="center">Finance</td>
-          <td align="center">Data Mining with RapidMiner</td>
-          <td align="center">Data Mining</td>
-        </tr>
-        <tr>
           <td align="center">Stock Market Swing Trading - Beginner</td>
           <td align="center">Finance</td>
-          <td align="center">Data Mining with Rapidminer</td>
+          <td align="center">Data Mining with RapidMiner</td>
           <td align="center">Data Mining</td>
         </tr>
         <tr>
