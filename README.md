@@ -28,21 +28,6 @@
   </p>
 </details>
 
-<!-- ############################# Interests of research ############################# -->
-
-# 🎓 Academic research interests
-<details>
-  <summary>Research interests (Click to expand)</summary>
-  <p align="center"></p>
-    
-  - Algorithms
-  - Deep learning
-  - Quantum Computing
-  - Image Processing
-  - Other areas related to computer science ...
-
-</details>
-
 <!-- ############################# Experience ############################# -->
 
 <div align="justify">
@@ -138,6 +123,23 @@
      </table>
   </div>
 </details>
+
+<!-- ############################# Interests of research ############################# -->
+
+# 🎓 Academic research interests
+<details>
+  <summary>Research interests (Click to expand)</summary>
+  <p align="center"></p>
+    
+  - Algorithms
+  - Deep learning
+  - Quantum Computing
+  - Image Processing
+  - Other areas related to computer science ...
+
+</details>
+
+
 
 <!-- ############################# Interests of research ############################# -->
 
