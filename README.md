@@ -16,7 +16,7 @@
 
 </div>
 <details>
-  <summary>Contact Me</summary>
+  <summary>Contact Me (Click to expand)</summary>
   <p align="center"><p>
     <p align="center">
       👇 You can contact me by sending me a message on Telegram. 👇
@@ -32,7 +32,7 @@
 
 # 🎓 Academic research interests
 <details>
-  <summary>Click to see</summary>
+  <summary>Research interests (Click to expand)</summary>
   <p align="center"></p>
     
   - Algorithms
