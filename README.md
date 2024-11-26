@@ -8,6 +8,7 @@
 
 ***
 
+<span>
 <p align="center">
 <strong>📉 My GitHub statistics 📈</strong>
 </p>
@@ -24,7 +25,7 @@
       <img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Esmaeilzadeh1&theme=oldie&row=1&column=8" />
     </a>
 </p>
-
+</span>
 <!-- ############################# Personal information ############################# -->
 
 <div align="justify">
