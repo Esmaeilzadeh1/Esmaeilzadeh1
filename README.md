@@ -226,7 +226,7 @@ skills = {
 </p>
 <p align="center">
   <a href="#">
-    <img height=292 align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&row=2&column=5" />
+    <img height=291.5 align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie&row=2&column=5" />
   </a>
 </p>
 
