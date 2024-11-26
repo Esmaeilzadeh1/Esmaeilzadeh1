@@ -6,8 +6,10 @@
 <!-- ______________________________________________________________________________________________________________________________ -->
 <!-- ############################# GitHub Stats ############################# -->
 
+***
+
 <p align="center">
-  __________📉 My GitHub statistics 📈__________
+<strong>📉 My GitHub statistics 📈</strong>
 </p>
 <p align="center">
     <a href="#">
@@ -245,6 +247,8 @@ skills = {
 
 # 💭 My Motto
 > Looking for better results? Don't imitate, innovate or elevate. Your mind has its own unique algorithm!
+
+***
 
 <!-- ############################# End ############################# -->
 
