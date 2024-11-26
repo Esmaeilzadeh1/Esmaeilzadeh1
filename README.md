@@ -9,7 +9,7 @@
 ***
 
 <p align="center">
-<strong>~~~~~~~~📉 My GitHub statistics 📈~~~~~~~~</strong>
+<strong>📉 My GitHub statistics 📈</strong>
 </p>
 <p align="center">
     <a href="#">
