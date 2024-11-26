@@ -72,39 +72,69 @@
           <td align="center">Data Mining</td>
         </tr>
         <tr>
-          <td align="center">UML Modeling</td>
+          <td align="center">Stock Market Swing Trading - Beginner</td>
+          <td align="center">Finance</td>
+          <td align="center">Data Mining with Rapidminer</td>
+          <td align="center">Data Mining</td>
+        </tr>
+        <tr>
+          <td align="center">UML Modeling with Rational Rose</td>
           <td align="center">Software Engineering</td>
-          <td align="center">C++ Programming</td>
+          <td align="center">Programming Languages Design and Implementation</td>
           <td align="center">Programming</td>
         </tr>
         <tr>
-          <td align="center">Git and GitHub Professional Guide</td>
-          <td align="center">Version Control</td>
-          <td align="center">LaTeX Professional Course</td>
-          <td align="center">Technical Writing</td>
+          <td align="center">Pascal Programming</td>
+          <td align="center">Programming</td>
+          <td align="center">STL Library in C++ for Code Simplification</td>
+          <td align="center">Programming</td>
         </tr>
         <tr>
-          <td align="center">Quantum Computing</td>
+          <td align="center">C++ Programming from Beginner to Advanced</td>
+          <td align="center">Programming</td>
+          <td align="center">Algorithm Design</td>
           <td align="center">Computer Science</td>
+        </tr>
+        <tr>
+          <td align="center">Electrical Circuits for Computer Science Master's (Review and Problem Solving)</td>
+          <td align="center">Hardware</td>
+          <td align="center">Data Structures</td>
+          <td align="center">Programming</td>
+        </tr>
+        <tr>
+          <td align="center">Computer Architecture with Problem-Solving Approach - Beginner</td>
+          <td align="center">Hardware</td>
           <td align="center">Python Programming</td>
           <td align="center">Programming</td>
         </tr>
         <tr>
-          <td align="center">Algorithm Design</td>
-          <td align="center">Computer Science</td>
-          <td align="center">Computer Architecture</td>
-          <td align="center">Hardware</td>
+          <td align="center">Professional Git, GitHub, and GitLab</td>
+          <td align="center">Version Control</td>
+          <td align="center">Professional LaTeX</td>
+          <td align="center">Technical Writing</td>
         </tr>
         <tr>
-          <td align="center">Data Structures</td>
-          <td align="center">Programming</td>
+          <td align="center">Quantum Computing in Computers</td>
+          <td align="center">Computer Science</td>
           <td align="center">MATLAB Programming</td>
           <td align="center">Scientific Computing</td>
         </tr>
         <tr>
-          <td align="center">WordPress Development</td>
+          <td align="center">Seminar, Thesis Writing and Presentation - Specialized in Image Processing and Computer Vision</td>
+          <td align="center">Technical Writing</td>
+          <td align="center">Professional HTML and CSS</td>
           <td align="center">Web Development</td>
-          <td align="center">HTML & CSS Professional Course</td>
+        </tr>
+        <tr>
+          <td align="center">HTML for Web Design - Beginner</td>
+          <td align="center">Web Development</td>
+          <td align="center">Project-Based WordPress Development without Coding</td>
+          <td align="center">Web Development</td>
+        </tr>
+        <tr>
+          <td align="center">Website Setup and Advanced WordPress</td>
+          <td align="center">Web Development</td>
+          <td align="center">WordPress Basics</td>
           <td align="center">Web Development</td>
         </tr>
         <tr>
