@@ -139,9 +139,7 @@
 
 </details>
 
-
-
-<!-- ############################# Interests of research ############################# -->
+<!-- ############################# Skills ############################# -->
 
 ## 💻 Technical Skills
 ```python
@@ -158,6 +156,22 @@ FRAMEWORKS_LIBRARIES = {
     'Version Control': ['Git', 'GitHub', 'GitLab']
 }
 ```
+
+
+```mermaid
+graph TD;
+    A[Skills] --> B[Programming];
+    A --> C[Design];
+    A --> D[Soft Skills];
+    B --> B1[Python];
+    B --> B2[JavaScript];
+    B --> B3[C++];
+    C --> C1[UI/UX];
+    C --> C2[Graphic Design];
+    D --> D1[Leadership];
+    D --> D2[Communication];
+```
+
 
 
 
