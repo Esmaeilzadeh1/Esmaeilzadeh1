@@ -6,11 +6,15 @@
 
 <!-- ############################# Personal information ############################# -->
 
+<div align="justify">
+  
 # 👨‍💻 About Me
 > I am a Master's student in **Computer Engineering** at the *Islamic Azad University, Mashhad Branch*. <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/uni.png" alt="icon" width="16" height="25"><br> 
 > I have worked as an online course instructor as well as a programmer and website designer.<br> 
 > and I am also the founder of [BornaWeb](https://bornaweb.com/ "Visit bornaweb.com") 🌐<br> 
 > Currently, I am engaged in university studies and academic research.
+
+</div>
 <details>
   <summary>Contact Me</summary>
   <p align="center"><p>
@@ -39,14 +43,14 @@
 
 </details>
 
-<!-- ############################# Interests of research ############################# -->
+<!-- ############################# Experience ############################# -->
 
-<p style="text-align: justify;">
-  
-  # 👔 Professional Experience
-  > I have over 7 years of experience in online teaching in the field of computer science. I am the founder and manager of bornaweb.com, and my company will be registered soon under the same name. I prefer to work as an entrepreneur or employer rather than as an employee. I prioritize team management and interaction with individuals to achieve a desirable outcome. I have also written numerous educational notebooks where I have documented my knowledge and experiences.
+<div align="justify">
 
-</p>
+# 👔 Professional Experience
+> I have over 7 years of experience in online teaching in the field of computer science. I am the founder and manager of bornaweb.com, and my company will be registered soon under the same name. I prefer to work as an entrepreneur or employer rather than as an employee. I prioritize team management and interaction with individuals to achieve a desirable outcome. I have also written numerous educational notebooks where I have documented my knowledge and experiences.
+
+</div>
 <details>
   <summary>View Educational Notebook Titles (Click to expand)</summary>
   <p align="center"></p>
