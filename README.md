@@ -12,7 +12,7 @@
 > and I am also the founder of [BornaWeb](https://bornaweb.com/ "Visit bornaweb.com") 🌐<br> 
 > Currently, I am engaged in university studies and academic research.
 <details>
-  <summary>✉ Contact Me</summary>
+  <summary>Contact Me</summary>
   <p align="center"><p>
     <p align="center">
       👇 You can contact me by sending me a message on Telegram. 👇
