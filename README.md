@@ -1,4 +1,4 @@
-<!-- ############################# Start ############################# -->
+<!-- ############################# ✅Start ############################# -->
 
 <p align="center">
   <a href="#">
@@ -8,7 +8,7 @@
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
-<!-- ############################# GitHub Stats ############################# -->
+<!-- ############################# ✅GitHub Stats ############################# -->
 
 <p align="center">
   <a href="#">
@@ -27,7 +27,7 @@
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
-<!-- ############################# Personal information ############################# -->
+<!-- ############################# ✅Personal information ############################# -->
 
 <div align="justify">
   
@@ -55,23 +55,27 @@
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
-<!-- ############################# Education ############################# -->
+<!-- ############################# ✅Education ############################# -->
 
 ## 👨‍🎓 Education 👨‍🎓
 <ul type="square">
+<!-- ******************************************** Education Item ******************************************** -->   
   <li>✅ BSc in Software Engineering</li>
+<!-- ******************************************************************************************************** --> 
   <li>⏳ Currently pursuing MSc in Computer Engineering</li>
 </ul>
 <details>
   <summary>Academic profiles (Click to expand)</summary>
   <p align="center"><p>
     <p align="center">
+<!-- ******************************************** Academic profiles Item ******************************************** -->      
       <strong>👉 Mail to My </strong>
       <a href="mailto:em.esmaeilzadeh@iau.ir">
         <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Circle-icons-mail.svg" height="15" width="15" alt="ORCID" />
         <strong>Academic Email</strong>
       </a><strong></strong>
-      <br>      
+      <br>
+<!-- **************************************************************************************************************** -->      
       <strong>👉 Click to See My </strong>
       <a href="https://orcid.org/0009-0003-6371-7607">
         <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/ORCID_iD.svg" height="15" width="15" alt="ORCID" />
@@ -89,7 +93,7 @@
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
-<!-- ############################# Experience ############################# -->
+<!-- ############################# ✅Experience ############################# -->
 
 <div align="justify">
 
@@ -103,12 +107,14 @@
   <div align="center">
      <table border="0%">
       <thead>
+<!-- ******************************************** Table Row Item ******************************************** --> 
         <tr>
           <th align="center">Course Title</th>
           <th align="center">Domain</th>
           <th align="center">Course Title</th>
           <th align="center">Domain</th>
         </tr>
+<!-- ******************************************************************************************************** --> 
       </thead>
       <tbody>
         <tr>
@@ -187,7 +193,7 @@
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
-<!-- ############################# Interests of research ############################# -->
+<!-- ############################# ✅Interests of research ############################# -->
 
 ## ✨ My interests ✨
 <details>
@@ -198,10 +204,12 @@
           <tr>
               <td colspan="2" align="center"><strong>🎓 Academic Research Interests 🎓</strong></td>
           </tr>
+<!-- ******************************************** Table Row Item ******************************************** -->
           <tr>
               <td align="center">Algorithms</td>
               <td align="center">Deep Learning</td>
           </tr>
+<!-- ******************************************************************************************************** -->
           <tr>
               <td align="center">Quantum Computing</td>
               <td align="center">Image Processing</td>
@@ -226,7 +234,7 @@
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
-<!-- ############################# Skills ############################# -->
+<!-- ############################# ✅Skills ############################# -->
 
 ## 💻 My Skills 💻
 ```python
@@ -240,25 +248,31 @@ skills = {
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
-<!-- ############################# Current Projects ############################# -->
+<!-- ############################# ✅Current Projects ############################# -->
+
 ## 🚀 Projects 🚀
 <details>
   <summary>Current Projects (Click to expand)</summary>
   <p align="center"></p>
+<!-- ******************************************** Current Projects Two Item ******************************************** -->
   <p align="center">
-    <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"></a>
+    <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
     </a>
     <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Transparent.svg" />
-    <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"></a>
+    <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
     </a>
   </p>
+<!-- ****************************************************************************************************************** -->
   <p align="center">
-    <!-- <a href="#"></a> -->
+    <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
+    </a>
       <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Transparent.svg" />
+    <p align="center">
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
+    </a>
   </p>
 </details>
 <details>
@@ -266,6 +280,7 @@ skills = {
   <p align="center"></p>
   <div align="center">
       <table border="0%">
+<!-- ******************************************** Table Row(Repositories) Item ******************************************** -->
           <tr>
               <td align="center">
                   <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
@@ -295,6 +310,8 @@ skills = {
                   </a>
               </td>
           </tr>
+<!-- ********************************************************************************************************************** -->
+<!-- *********************************************** Table Row(Gists) Item ************************************************ -->
           <tr>
               <td align="center">
                   <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
@@ -324,13 +341,14 @@ skills = {
                   </a>
               </td>
           </tr>
+<!-- ********************************************************************************************************************** -->
       </table>
   </div>
 </details>
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
-<!-- ############################# Motto ############################# -->
+<!-- ############################# ✅Motto ############################# -->
 
 ## 💭 My Motto 💭
 <div align="center">
@@ -343,7 +361,7 @@ skills = {
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
-<!-- ############################# End ############################# -->
+<!-- ############################# ✅End ############################# -->
 
 <p align="center">
   <a href="#">
