@@ -237,12 +237,12 @@ skills = {
 
 <!-- ############################# Current Projects ############################# -->
 
-# 🚀 Current Projects
+# 🛠️ Current Projects
 1. BornaWeb website Development
 2. Quantum Version of Symbiotic Organisms Search Algorithm
 3. AI-based Alzheimer's Disease Detection System using MRI Data
 
-# 🌐 Personal Projects
+# 🗂️ Completed projects
 <details>
   <summary>Showcase Main Project or Its Demo (Click to expand)</summary>
   <p align="center"></p>
