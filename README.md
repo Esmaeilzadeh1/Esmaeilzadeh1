@@ -263,10 +263,10 @@ skills = {
   <p align="center"></p>
   <p align="center">
     <a href="#">
-      <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=bornaweb.com&bg_color=F8F8F8" />
+      <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8" />
     </a>
     <a href="#">
-      <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=bornaweb.com&bg_color=F8F8F8" />
+      <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8" />
     </a>
   </p>
   <p align="center">
@@ -286,7 +286,7 @@ skills = {
           <tr>
               <td align="center">
                 <a href="#">
-                  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=bornaweb.com&bg_color=F8F8F8" />
+                  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8" />
                 </a>
                 <br>
                 <a href="https://bornaweb.com">
