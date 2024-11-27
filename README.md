@@ -247,8 +247,9 @@ skills = {
   <p align="center"></p>
   <p align="center">
     <!-- <a href="#"></a> -->
-      <img width=49% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
-      <img width=49% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
+      <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
+      <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Transparent.svg" />
+      <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
   </p>
   <p align="center">
     <!-- <a href="#"></a> -->
