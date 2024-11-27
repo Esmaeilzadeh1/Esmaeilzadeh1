@@ -54,6 +54,21 @@
   <li>✅ BSc in Software Engineering</li>
   <li>⏳ Currently pursuing MSc in Computer Engineering</li>
 </ul>
+<details>
+  <summary>My scientific and academic profiles (Click to expand)</summary>
+  <p align="center"><p>
+    <p align="center">
+      <a href="https://orcid.org/0009-0003-6371-7607">
+        <img src="" height="40" width="150" alt="ORCID" />
+        ORCID
+        <br>
+      </a>
+      <a href="https://orcid.org/0009-0003-6371-7607">
+        <img src="" height="40" width="150" alt="ORCID" />
+        ORCID
+    </p>
+</details>
+
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
@@ -238,10 +253,9 @@ skills = {
 <!-- ______________________________________________________________________________________________________________________________ -->
 
 <!-- ############################# Current Projects ############################# -->
-
-# 🛠️ Current Projects
+# 🚀 Projects
 <details>
-  <summary>See Current Projects (Click to expand)</summary>
+  <summary>🛠️ Current Projects (Click to expand)</summary>
   <p align="center"></p>
   <p align="center">
     <a href="#">
@@ -260,10 +274,8 @@ skills = {
     </a>
   </p>
 </details>
-
-# 🗂️ Completed projects
 <details>
-  <summary>Showcase Main Project or Its Demo (Click to expand)</summary>
+  <summary>🗂️ Completed projects (Click to expand)</summary>
   <p align="center"></p>
   <div align="center">
       <table border="100%">
