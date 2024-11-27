@@ -231,35 +231,6 @@ skills = {
     "Other Skills": ["Graphic Design", "UI/UX"]
 }
 ```
-<!--
-<details>
-  <summary>The Tree Representation of Skills (Click to expand)</summary>
-  <p align="center"></p>
-
-  ```mermaid
-  graph LR;
-      A[Skills] --> B[Programming];
-      A --> C[Web Development];
-      A --> D[Mathematics & Scripting];
-      A --> E[Other Skills];
-      B --> B1[C];
-      B --> B2[C++];
-      B --> B3[Pascal];
-      B --> B4[Python];
-      B --> B5[MATLAB];
-      B --> B6[TeX];
-      C --> C1[HTML];
-      C --> C2[CSS];
-      C --> C3[JavaScript];
-      C --> C4[PHP];
-      D --> D1[MATLAB];
-      D --> D2[TeX];
-      E --> E1[Graphic Design];
-      E --> E2[UI/UX];
-  ```
-
-</details>
- -->
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
