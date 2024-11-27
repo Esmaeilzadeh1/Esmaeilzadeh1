@@ -265,14 +265,51 @@ skills = {
 <details>
   <summary>Showcase Main Project or Its Demo (Click to expand)</summary>
   <p align="center"></p>
-  <p align="center">
-  
-  [![BornaWeb](https://img.shields.io/badge/BornaWeb-Visit%20Website-blue?style=for-the-badge)](https://bornaweb.com)
-  
-  </p>
+  <div align="center">
+      <table border="100%">
+          <tr>
+              <td align="center">
+                <a href="#">
+                  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&bg_color=F8F8F8" />
+                </a>
+                <br>
+                <a href="https://bornaweb.com">
+                  <img align="center" src="https://img.shields.io/badge/BornaWeb-Visit%20Website-blue?style=for-the-badge" />
+                </a>
+              </td>
+              <td align="center">
+                <a href="#">
+                  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&bg_color=F8F8F8" />
+                </a>
+                <br>
+                <a href="https://bornaweb.com">
+                  <img align="center" src="https://img.shields.io/badge/BornaWeb-Visit%20Website-blue?style=for-the-badge" />
+                </a>
+              </td>
+          </tr>
+          <tr>
+              <td align="center">
+                <a href="#">
+                  <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&bg_color=F8F8F8" />
+                </a>
+                <br>
+                <a href="https://bornaweb.com">
+                  <img align="center" src="https://img.shields.io/badge/BornaWeb-Visit%20Website-blue?style=for-the-badge" />
+                </a>
+              </td>
+              <td align="center">
+                <a href="#">
+                  <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&bg_color=F8F8F8" />
+                </a>
+                <br>
+                <a href="https://bornaweb.com">
+                  <img align="center" src="https://img.shields.io/badge/BornaWeb-Visit%20Website-blue?style=for-the-badge" />
+                </a> 
+              </td>
+          </tr>
+      </table>
+  </div>
 </details>
-
-
 
 <!-- ############################# Start ############################# -->
 
