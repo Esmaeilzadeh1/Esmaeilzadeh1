@@ -282,7 +282,7 @@ skills = {
   <summary>🗂️ Completed projects (Click to expand)</summary>
   <p align="center"></p>
   <div align="center">
-      <table border="20%">
+      <table border="1%">
           <tr>
               <td align="center">
                 <a href="#">
