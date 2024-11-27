@@ -72,8 +72,8 @@
       <br>
       <strong>👉 Click to See My </strong>
       <a href="https://orcid.org/0009-0003-6371-7607">
-        <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/ORCID_iD.svg" height="15" width="15" alt="ORCID" />
-        <strong>ORCID</strong>
+        <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/ResearchGate_icon_SVG.svg" height="15" width="15" alt="ORCID" />
+        <strong>ResearchGate</strong>
       </a><strong>Profile 👈</strong>
       <br>
     </p>
@@ -224,16 +224,17 @@
 ```python
 # My Skills: A Beautiful Representation!
 skills = {
-    "Programming": ["C", "C++", "Pascal", "Python", "MATLAB", "TeX"],
+    "Programming": ["C", "C++", "Pascal", "Python"],
     "Web Development": ["HTML", "CSS", "JavaScript", "PHP"],
     "Mathematics & Scripting": ["MATLAB", "TeX"],
     "Other Skills": ["Graphic Design", "UI/UX"]
 }
 ```
-
+<!--
 <details>
   <summary>The Tree Representation of Skills (Click to expand)</summary>
   <p align="center"></p>
+
     
   ```mermaid
   graph LR;
@@ -258,6 +259,7 @@ skills = {
   ```
 
 </details>
+ -->
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
@@ -281,7 +283,7 @@ skills = {
   <summary>Completed projects (Click to expand)</summary>
   <p align="center"></p>
   <div align="center">
-      <table border="20%">
+      <table border="10%">
           <tr>
               <td align="center">
                 <a href="#">
