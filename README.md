@@ -254,7 +254,7 @@ skills = {
 <details>
   <summary>Current Projects (Click to expand)</summary>
   <p align="center"></p>
-<!-- ******************************************** Current Projects Two Item ******************************************** -->
+<!-- ******************************************** Current Projects Two Item(Reposirories) ******************************************** -->
   <p align="center">
     <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
@@ -263,22 +263,24 @@ skills = {
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
     </a>
   </p>
-<!-- ****************************************************************************************************************** -->
+<!-- ********************************************************************************************************************************* -->
+<!-- ************************************************ Current Projects Two Item(Gists) *********************************************** -->
   <p align="center">
     <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
     </a>
-    <p align="center">
+    <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
     </a>
   </p>
+<!-- ********************************************************************************************************************************* -->
 </details>
 <details>
   <summary>Completed projects (Click to expand)</summary>
   <p align="center"></p>
   <div align="center">
       <table border="0%">
-<!-- ******************************************** Table Row(Repositories) Item ******************************************** -->
+<!-- ******************************************** Completed projects Table Row(Repositories) Item ******************************************** -->
           <tr>
               <td align="center">
                   <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
@@ -308,8 +310,8 @@ skills = {
                   </a>
               </td>
           </tr>
-<!-- ********************************************************************************************************************** -->
-<!-- *********************************************** Table Row(Gists) Item ************************************************ -->
+<!-- ***************************************************************************************************************************************** -->
+<!-- *********************************************** Completed projects Table Row(Gists) Item ************************************************ -->
           <tr>
               <td align="center">
                   <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
@@ -339,7 +341,7 @@ skills = {
                   </a>
               </td>
           </tr>
-<!-- ********************************************************************************************************************** -->
+<!-- ***************************************************************************************************************************************** -->
       </table>
   </div>
 </details>
