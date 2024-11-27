@@ -189,7 +189,7 @@
               <td align="center">Investment: Stock Market and Cryptocurrency Trading</td>
           </tr>
       </table>
-  </div>div>
+  </div>
 </details>
 
 <!-- ______________________________________________________________________________________________________________________________ -->
