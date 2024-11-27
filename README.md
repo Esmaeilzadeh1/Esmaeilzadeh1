@@ -143,9 +143,9 @@
 
 <!-- ############################# Education ############################# -->
 
-# 🎓 Education
-- BSc in Software Engineering
-- Currently pursuing MSc in Computer Engineering
+# 👨‍🎓 Education
+- ✅ BSc in Software Engineering
+- ⏳ Currently pursuing MSc in Computer Engineering
 
 <!-- ############################# Interests of research ############################# -->
 
