@@ -235,12 +235,25 @@ skills = {
 
 </details>
 
+<!-- ______________________________________________________________________________________________________________________________ -->
+
 <!-- ############################# Current Projects ############################# -->
 
 # 🛠️ Current Projects
-1. BornaWeb website Development
-2. Quantum Version of Symbiotic Organisms Search Algorithm
-3. AI-based Alzheimer's Disease Detection System using MRI Data
+<details>
+  <summary>See Current Projects (Click to expand)</summary>
+  <p align="center"></p>
+
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d" />
+
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
+</details>
 
 # 🗂️ Completed projects
 <details>
@@ -253,11 +266,7 @@ skills = {
   </p>
 </details>
 
-<!-- ############################# Gists & Repositories ############################# -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 <!-- ############################# Start ############################# -->
 
