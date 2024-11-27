@@ -50,8 +50,10 @@
 <!-- ############################# Education ############################# -->
 
 # 👨‍🎓 Education
-- ✅ BSc in Software Engineering
-- ⏳ Currently pursuing MSc in Computer Engineering
+<ul type="square">
+  <li>✅ BSc in Software Engineering</li>
+  <li>⏳ Currently pursuing MSc in Computer Engineering</li>
+</ul>
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
