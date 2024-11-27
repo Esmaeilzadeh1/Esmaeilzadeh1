@@ -90,7 +90,7 @@
 
 </div>
 <details>
-  <summary>View Educational Notebook Titles (Click to expand)</summary>
+  <summary>Notebook Titles (Click to expand)</summary>
   <p align="center"></p>
   <div align="center">
      <table border="1">
