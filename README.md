@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="#">
-  <img width=100% src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif" alt="start.gif" />
+    <img width=100% src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif" alt="start.gif" />
+  </a>
 </p>
 
 <!-- ______________________________________________________________________________________________________________________________ -->
@@ -12,11 +13,14 @@
 <p align="center">
   <a href="#">
       <img width=57.4% align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=000000&icon_color=1F2328&text_color=59636E&border_color=1F2328&bg_color=F8F8F8&border_radius=9" />
+  </a>
+  <a href="#">
       <img width=39.1% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=000000&text_color=59636E&border_color=1F2328&bg_color=F8F8F8&theme=transparent&border_radius=9" />
+  </a>
   </p>
 <!--
   <p align="center">
-    <a href="#">
+    <a href="#"></a>
       <img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Esmaeilzadeh1&theme=oldie&row=1&column=8" />
 -->
 </p>
