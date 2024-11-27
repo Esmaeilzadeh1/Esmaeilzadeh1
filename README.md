@@ -243,25 +243,22 @@ skills = {
 <details>
   <summary>See Current Projects (Click to expand)</summary>
   <p align="center"></p>
-<p align="center">
-  <a href="#">
-    <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&bg_color=F8F8F8" />
-  </a>
-  <a href="#">
-    <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&bg_color=F8F8F8" />
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img width=33% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&bg_color=F8F8F8" />
-  </a>
-  <a href="#">
-    <img width=33% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&bg_color=F8F8F8" />
-  </a>
-  <a href="#">
-    <img width=33% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&bg_color=F8F8F8" />
-  </a>
-</p>
+  <p align="center">
+    <a href="#">
+      <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&bg_color=F8F8F8" />
+    </a>
+    <a href="#">
+      <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&bg_color=F8F8F8" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="#">
+      <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&bg_color=F8F8F8" />
+    </a>
+    <a href="#">
+      <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&bg_color=F8F8F8" />
+    </a>
+  </p>
 </details>
 
 # 🗂️ Completed projects
