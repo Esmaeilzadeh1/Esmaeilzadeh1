@@ -5,20 +5,6 @@
 </p>
 <!-- ______________________________________________________________________________________________________________________________ -->
 
-<!-- ############################# GitHub Stats ############################# -->
-
-<p align="center">
-  <a href="#">
-      <img width=57.83% align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=1F2328&icon_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&border_radius=9" />
-      <img width=39.1% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&theme=transparent&border_radius=9" />
-  </p>
-  <p align="center">
-    <a href="#">
-      <img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Esmaeilzadeh1&theme=oldie&row=1&column=8" />
-</p>
-
-<!-- ______________________________________________________________________________________________________________________________ -->
-
 <!-- ############################# Personal information ############################# -->
 
 <div align="justify">
@@ -42,6 +28,20 @@
     </p>
   </p>
 </details>
+
+<!-- ############################# GitHub Stats ############################# -->
+
+<p align="center">
+  <a href="#">
+      <img width=57.83% align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=1F2328&icon_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&border_radius=9" />
+      <img width=39.1% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=1F2328&text_color=1F2328&border_color=1F2328&bg_color=F8F8F8&theme=transparent&border_radius=9" />
+  </p>
+  <p align="center">
+    <a href="#">
+      <img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Esmaeilzadeh1&theme=oldie&row=1&column=8" />
+</p>
+
+<!-- ______________________________________________________________________________________________________________________________ -->
 
 <!-- ############################# Experience ############################# -->
 
