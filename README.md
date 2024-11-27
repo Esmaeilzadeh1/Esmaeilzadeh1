@@ -290,7 +290,7 @@ skills = {
                 </a>
                 <br>
                 <a href="https://bornaweb.com">
-                  <img align="center" src="https://img.shields.io/badge/BornaWeb-Visit%20Website-blue?style=for-the-badge" />
+                  <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
                 </a>
               </td>
               <td align="center">
@@ -299,7 +299,7 @@ skills = {
                 </a>
                 <br>
                 <a href="https://bornaweb.com">
-                  <img align="center" src="https://img.shields.io/badge/BornaWeb-Visit%20Website-blue?style=for-the-badge" />
+                  <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
                 </a>
               </td>
           </tr>
@@ -310,7 +310,7 @@ skills = {
                 </a>
                 <br>
                 <a href="https://bornaweb.com">
-                  <img align="center" src="https://img.shields.io/badge/BornaWeb-Visit%20Website-blue?style=for-the-badge" />
+                  <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
                 </a>
               </td>
               <td align="center">
@@ -319,7 +319,7 @@ skills = {
                 </a>
                 <br>
                 <a href="https://bornaweb.com">
-                  <img align="center" src="https://img.shields.io/badge/BornaWeb-Visit%20Website-blue?style=for-the-badge" />
+                  <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
                 </a> 
               </td>
           </tr>
@@ -329,7 +329,7 @@ skills = {
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
-<!-- ############################# Start ############################# -->
+<!-- ############################# Motto ############################# -->
 
 ## 💭 My Motto 💭
 <div align="center">
