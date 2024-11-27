@@ -26,7 +26,7 @@
 
 <div align="justify">
   
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 > I am a Master's student in **Computer Engineering** at the **Islamic Azad University, Mashhad Branch**. <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/uni.png" alt="icon" width="16" height="25"><br> 
 > I have worked as an online course instructor as well as a programmer and website designer.<br> 
 > and I am also the founder of [BornaWeb](https://bornaweb.com/ "Visit bornaweb.com").🌐<br> 
@@ -50,7 +50,7 @@
 
 <!-- ############################# Education ############################# -->
 
-# 👨‍🎓 Education
+## 👨‍🎓 Education
 <ul type="square">
   <li>✅ BSc in Software Engineering</li>
   <li>⏳ Currently pursuing MSc in Computer Engineering</li>
@@ -80,7 +80,7 @@
 
 <div align="justify">
 
-# 👔 Professional Experience
+## 👔 Professional Experience
 > I have over 7 years of experience in online teaching in the field of computer science. I prefer to work as an entrepreneur or employer rather than as an employee. I prioritize team management and interaction with individuals to achieve a desirable outcome. I have also written numerous educational notebooks where I have documented my knowledge and experiences.
 
 </div>
@@ -176,7 +176,7 @@
 
 <!-- ############################# Interests of research ############################# -->
 
-# ✨ My interests
+## ✨ My interests
 <details>
   <summary>See my interests (Click to expand)</summary>
   <div align="center">
@@ -215,7 +215,7 @@
 
 <!-- ############################# Skills ############################# -->
 
-# 💻 Programming and Development Skills
+## 💻 Programming and Development Skills
 ```python
 # My Skills: A Beautiful Representation!
 skills = {
@@ -257,7 +257,7 @@ skills = {
 <!-- ______________________________________________________________________________________________________________________________ -->
 
 <!-- ############################# Current Projects ############################# -->
-# 🚀 Projects
+## 🚀 Projects
 <details>
   <summary>🛠️ Current Projects (Click to expand)</summary>
   <p align="center"></p>
@@ -331,12 +331,14 @@ skills = {
 
 <!-- ############################# Start ############################# -->
 
-# 💭 My Motto
-<p align="center">
-
-  > "Looking for better results? Don't imitate, innovate or elevate. Your mind has its own unique algorithm!"
-
-</p>
+## 💭 My Motto
+<div align="center">
+  <strong>
+    
+  `"Looking for better results? Don't imitate, innovate or elevate. Your mind has its own unique algorithm!"`
+  
+  </strong>
+</div>
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
