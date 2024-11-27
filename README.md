@@ -57,7 +57,7 @@
 
 <!-- ############################# ✅Education ############################# -->
 
-## 👨‍🎓 Education 👨‍🎓
+## 👨‍🎓 My Education 👨‍🎓
 <ul type="square">
 <!-- ******************************************** Education Item ******************************************** -->   
   <li>✅ BSc in Software Engineering</li>
@@ -97,7 +97,7 @@
 
 <div align="justify">
 
-## 👔 Experience 👔
+## 👔 My Experience 👔
 > I have over 7 years of experience in online teaching in the field of computer science. I prefer to work as an entrepreneur or employer rather than as an employee. I prioritize team management and interaction with individuals to achieve a desirable outcome. I have also written numerous educational notebooks where I have documented my knowledge and experiences.
 
 </div>
@@ -250,7 +250,7 @@ skills = {
 
 <!-- ############################# ✅Projects ############################# -->
 
-## 🚀 Projects 🚀
+## 🚀 My Projects 🚀
 <details>
   <summary>Current Projects (Click to expand)</summary>
   <p align="center"></p>
