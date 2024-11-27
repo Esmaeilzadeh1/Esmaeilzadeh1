@@ -1,6 +1,7 @@
 <!-- ############################# Start ############################# -->
 
 <p align="center">
+  <a href="#">
   <img width=100% src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif" alt="start.gif" />
 </p>
 
@@ -345,6 +346,7 @@ skills = {
 <!-- ############################# End ############################# -->
 
 <p align="center">
+  <a href="#">
   <img width=100% src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/thanks.gif" alt="end.gif" />
 </p>
 
