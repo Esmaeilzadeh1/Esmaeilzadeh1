@@ -188,7 +188,7 @@
   <summary>See my interests (Click to expand)</summary>
   <div align="center">
     <p align="center"></p>
-    <table border="1">
+    <table border="5%">
           <tr>
               <td colspan="2" align="center"><strong>🎓 Academic Research Interests 🎓</strong></td>
           </tr>
