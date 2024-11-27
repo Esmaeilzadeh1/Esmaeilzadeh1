@@ -267,20 +267,14 @@ skills = {
   <summary>Current Projects (Click to expand)</summary>
   <p align="center"></p>
   <p align="center">
-    <a href="#">
+    <!-- <a href="#"></a> -->
       <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8" />
-    </a>
-    <a href="#">
       <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8" />
-    </a>
   </p>
   <p align="center">
-    <a href="#">
+    <!-- <a href="#"></a> -->
       <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8" />
-    </a>
-    <a href="#">
       <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8" />
-    </a>
   </p>
 </details>
 <details>
