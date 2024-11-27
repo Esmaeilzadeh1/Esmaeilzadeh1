@@ -1,7 +1,7 @@
 <!-- ############################# Start ############################# -->
 
 <p align="center">
-  <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif" alt="start.gif" />
+  <img width=100% src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif" alt="start.gif" />
 </p>
 
 <!-- ______________________________________________________________________________________________________________________________ -->
@@ -327,18 +327,23 @@ skills = {
   </div>
 </details>
 
+<!-- ______________________________________________________________________________________________________________________________ -->
+
 <!-- ############################# Start ############################# -->
 
 # 💭 My Motto
-> Looking for better results? Don't imitate, innovate or elevate. Your mind has its own unique algorithm!
+<p align="center">
+
+  > "Looking for better results? Don't imitate, innovate or elevate. Your mind has its own unique algorithm!"
+
+</p>
+
+<!-- ______________________________________________________________________________________________________________________________ -->
 
 <!-- ############################# End ############################# -->
 
 <p align="center">
-  <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/thanks.gif" alt="end.gif" />
+  <img width=100% src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/thanks.gif" alt="end.gif" />
 </p>
 
-
-https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/
-
-https://orcid.org/0009-0003-6371-7607
+<!-- ______________________________________________________________________________________________________________________________ -->
