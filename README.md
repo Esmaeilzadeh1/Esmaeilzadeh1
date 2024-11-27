@@ -42,7 +42,9 @@
   <summary>Contact Me (Click to expand)</summary>
   <p align="center"><p>
     <p align="center">
-      👇 You can contact me by sending me a message on Telegram. 👇
+      You can contact me by sending me a message on Telegram.
+      <br>
+      👇
         <p align="center">
       <a href="https://t.me/A_esmailzade">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" height="40" width="150" alt="Telegram" />
