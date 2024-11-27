@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/name.gif" alt="start.gif" />
 </p>
+
 <!-- ______________________________________________________________________________________________________________________________ -->
 
 <!-- ############################# GitHub Stats ############################# -->
@@ -55,7 +56,7 @@
   <li>⏳ Currently pursuing MSc in Computer Engineering</li>
 </ul>
 <details>
-  <summary>My scientific and academic profiles (Click to expand)</summary>
+  <summary>📄 My scientific and academic profiles (Click to expand)</summary>
   <p align="center"><p>
     <p align="center">
       <strong>👉 Click to See My </strong>
@@ -72,7 +73,6 @@
       <br>
     </p>
 </details>
-
 
 <!-- ______________________________________________________________________________________________________________________________ -->
 
