@@ -149,29 +149,22 @@
 
 <!-- ############################# Interests of research ############################# -->
 
-# 🎓 Academic research interests
+# ✨ My interests
 <details>
-  <summary>Research interests (Click to expand)</summary>
-  <p align="center"></p>
-    
+  <summary>See my interests (Click to expand)</summary>
+  
+  # 🎓 Academic research interests
   - Algorithms
   - Deep learning
   - Quantum Computing
   - Image Processing
   - Other areas related to computer science ...
-
-</details>
-
-# 🎯 Personal Interests
-<details>
-  <summary>Research interests (Click to expand)</summary>
-  <p align="center"></p>
-    
+  # 🎯 Personal Interests
   - English Language Enthusiast
   - Sports: Swimming and Football
   - Arts: Pencil Drawing and Writing
   - Investment: Stock Market and Cryptocurrency Trading
-
+  
 </details>
 
 <!-- ############################# Skills ############################# -->
