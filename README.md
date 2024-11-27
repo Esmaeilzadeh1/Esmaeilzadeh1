@@ -160,19 +160,36 @@
 # ✨ My interests
 <details>
   <summary>See my interests (Click to expand)</summary>
-  
-  # 🎓 Academic research interests
-  - Algorithms
-  - Deep learning
-  - Quantum Computing
-  - Image Processing
-  - Other areas related to computer science ...
-  # 🎯 Personal Interests
-  - English Language Enthusiast
-  - Sports: Swimming and Football
-  - Arts: Pencil Drawing and Writing
-  - Investment: Stock Market and Cryptocurrency Trading
-  
+  <div align="center">
+    <p align="center"></p>
+    <table border="1">
+          <tr>
+              <td colspan="2" align="center">🎓 Academic Research Interests</td>
+          </tr>
+          <tr>
+              <td align="center">Algorithms</td>
+              <td align="center">Deep Learning</td>
+          </tr>
+          <tr>
+              <td align="center">Quantum Computing</td>
+              <td align="center">Image Processing</td>
+          </tr>
+          <tr>
+              <td colspan="2" align="center">Other areas related to computer science ...</td>
+          </tr>
+          <tr>
+              <td colspan="2" align="center">🎯 Personal Interests</td>
+          </tr>
+          <tr>
+              <td align="center">English Language Enthusiast</td>
+              <td align="center">Sports: Swimming and Football</td>
+          </tr>
+          <tr>
+              <td align="center">Arts: Pencil Drawing and Writing</td>
+              <td align="center">Investment: Stock Market and Cryptocurrency Trading</td>
+          </tr>
+      </table>
+  </div>div>
 </details>
 
 <!-- ______________________________________________________________________________________________________________________________ -->
