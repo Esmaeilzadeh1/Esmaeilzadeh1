@@ -66,6 +66,12 @@
   <summary>Academic profiles (Click to expand)</summary>
   <p align="center"><p>
     <p align="center">
+      <strong>👉 Mail to My </strong>
+      <a href="mailto:em.esmaeilzadeh@iau.ir">
+        <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Circle-icons-mail.svg" height="15" width="15" alt="ORCID" />
+        <strong>Academic Email</strong>
+      </a><strong></strong>
+      <br>      
       <strong>👉 Click to See My </strong>
       <a href="https://orcid.org/0009-0003-6371-7607">
         <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/ORCID_iD.svg" height="15" width="15" alt="ORCID" />
