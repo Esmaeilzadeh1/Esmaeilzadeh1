@@ -85,7 +85,7 @@
 
 <div align="justify">
 
-## 👔 Professional Experience 👔
+## 👔 Experience 👔
 > I have over 7 years of experience in online teaching in the field of computer science. I prefer to work as an entrepreneur or employer rather than as an employee. I prioritize team management and interaction with individuals to achieve a desirable outcome. I have also written numerous educational notebooks where I have documented my knowledge and experiences.
 
 </div>
