@@ -164,7 +164,7 @@
     <p align="center"></p>
     <table border="1">
           <tr>
-              <td colspan="2" align="center">🎓 Academic Research Interests</td>
+              <td colspan="2" align="center"><strong>🎓 Academic Research Interests 🎓</strong></td>
           </tr>
           <tr>
               <td align="center">Algorithms</td>
@@ -178,7 +178,7 @@
               <td colspan="2" align="center">Other areas related to computer science ...</td>
           </tr>
           <tr>
-              <td colspan="2" align="center">🎯 Personal Interests</td>
+              <td colspan="2" align="center"><strong>🎯 Personal Interests 🎯</strong></td>
           </tr>
           <tr>
               <td align="center">English Language Enthusiast</td>
