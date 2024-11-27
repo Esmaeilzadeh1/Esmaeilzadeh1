@@ -61,7 +61,7 @@
   <li>⏳ Currently pursuing MSc in Computer Engineering</li>
 </ul>
 <details>
-  <summary>My scientific and academic profiles (Click to expand)</summary>
+  <summary>Academic profiles (Click to expand)</summary>
   <p align="center"><p>
     <p align="center">
       <strong>👉 Click to See My </strong>
