@@ -194,7 +194,7 @@
   <summary>See my interests (Click to expand)</summary>
   <div align="center">
     <p align="center"></p>
-    <table border="5%">
+    <table border="1%">
           <tr>
               <td colspan="2" align="center"><strong>🎓 Academic Research Interests 🎓</strong></td>
           </tr>
@@ -260,7 +260,7 @@ skills = {
   <summary>Completed projects (Click to expand)</summary>
   <p align="center"></p>
   <div align="center">
-      <table border="5%">
+      <table border="1%">
           <tr>
               <td align="center">
                 <a href="#">
