@@ -220,9 +220,8 @@
 
 <!-- ############################# Skills ############################# -->
 
-## 💻 Programming and Development Skills 💻
+## 💻 My Skills 💻
 ```python
-# My Skills: A Beautiful Representation!
 skills = {
     "Programming": ["C", "C++", "Pascal", "Python"],
     "Web Development": ["HTML", "CSS", "JavaScript", "PHP"],
@@ -235,7 +234,6 @@ skills = {
   <summary>The Tree Representation of Skills (Click to expand)</summary>
   <p align="center"></p>
 
-    
   ```mermaid
   graph LR;
       A[Skills] --> B[Programming];
