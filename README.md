@@ -335,7 +335,7 @@ skills = {
 <div align="center">
   <strong>
     
-  `"Looking for better results? Don't imitate, innovate or elevate. Your mind has its own unique algorithm!"`
+  `"Looking for better results? Don't imitate, Try innovate or elevate. Your mind has its own unique algorithm!"`
   
   </strong>
 </div>
