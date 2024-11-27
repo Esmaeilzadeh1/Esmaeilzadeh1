@@ -95,7 +95,7 @@
   <summary>Notebook Titles (Click to expand)</summary>
   <p align="center"></p>
   <div align="center">
-     <table border="1">
+     <table border="5%">
       <thead>
         <tr>
           <th align="center">Course Title</th>
