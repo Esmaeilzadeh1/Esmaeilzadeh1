@@ -56,7 +56,7 @@
   <li>⏳ Currently pursuing MSc in Computer Engineering</li>
 </ul>
 <details>
-  <summary>📄 My scientific and academic profiles (Click to expand)</summary>
+  <summary>My scientific and academic profiles (Click to expand)</summary>
   <p align="center"><p>
     <p align="center">
       <strong>👉 Click to See My </strong>
@@ -259,7 +259,7 @@ skills = {
 <!-- ############################# Current Projects ############################# -->
 ## 🚀 Projects 🚀
 <details>
-  <summary>🛠️ Current Projects (Click to expand)</summary>
+  <summary>Current Projects (Click to expand)</summary>
   <p align="center"></p>
   <p align="center">
     <a href="#">
@@ -279,7 +279,7 @@ skills = {
   </p>
 </details>
 <details>
-  <summary>🗂️ Completed projects (Click to expand)</summary>
+  <summary>Completed projects (Click to expand)</summary>
   <p align="center"></p>
   <div align="center">
       <table border="20%">
