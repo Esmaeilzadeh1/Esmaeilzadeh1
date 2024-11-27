@@ -246,15 +246,18 @@ skills = {
   <summary>Current Projects (Click to expand)</summary>
   <p align="center"></p>
   <p align="center">
-    <!-- <a href="#"></a> -->
+    <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"></a>
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
-      <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Transparent.svg" />
+    </a>
+    <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Transparent.svg" />
+    <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"></a>
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
+    </a>
   </p>
   <p align="center">
     <!-- <a href="#"></a> -->
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
-    <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Transparent.svg" />
+      <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Transparent.svg" />
       <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
   </p>
 </details>
@@ -265,7 +268,7 @@ skills = {
       <table border="0%">
           <tr>
               <td align="center">
-                  <a href="#">
+                  <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
                       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
                   </a>
                   <br>
@@ -274,7 +277,7 @@ skills = {
                   </a>
               </td>
               <td align="center">
-                  <a href="#">
+                  <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
                       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
                   </a>
                   <br>
@@ -283,7 +286,7 @@ skills = {
                   </a>
               </td>
               <td align="center">
-                  <a href="#">
+                  <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
                       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
                   </a>
                   <br>
@@ -294,29 +297,29 @@ skills = {
           </tr>
           <tr>
               <td align="center">
-                  <a href="#">
+                  <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
                       <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
                   </a>
                   <br>
-                  <a href="https://bornaweb.com">
+                  <a href="#">
                       <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
                   </a>
               </td>
               <td align="center">
-                  <a href="#">
+                  <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
                       <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
                   </a>
                   <br>
-                  <a href="https://bornaweb.com">
+                  <a href="#">
                       <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
                   </a>
               </td>
               <td align="center">
-                  <a href="#">
+                  <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
                       <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
                   </a>
                   <br>
-                  <a href="https://bornaweb.com">
+                  <a href="#">
                       <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
                   </a>
               </td>
