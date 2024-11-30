@@ -254,26 +254,29 @@ skills = {
 <details>
   <summary>Projects in progress (Click to expand)</summary>
   <p align="center"></p>
+  <table border="0" align="center">
+      <tr align="center">
+          <td>
 <!-- ******************************************** Current Projects Two Item(Reposirories) ******************************************** -->
-  <p align="center">
-    <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
-      <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
-    </a>
-    <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
-      <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
-    </a>
-  </p>
+            <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
+              <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
+            </a>
+            <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
+              <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
+            </a>
 <!-- ********************************************************************************************************************************* -->
+            <p align="center"></p>
 <!-- ************************************************ Current Projects Two Item(Gists) *********************************************** -->
-  <p align="center">
-    <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
-      <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
-    </a>
-    <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
-      <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
-    </a>
-  </p>
+            <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
+              <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
+            </a>
+            <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
+              <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
+            </a>
 <!-- ********************************************************************************************************************************* -->
+          </td>
+      </tr>
+  </table>
 </details>
 <details>
   <summary>Completed projects (Click to expand)</summary>
