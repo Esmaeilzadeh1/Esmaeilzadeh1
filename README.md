@@ -369,3 +369,17 @@ skills = {
 </p>
 
 <!-- ______________________________________________________________________________________________________________________________ -->
+
+<div align="center" width=100%>
+
+| شماره | تصویر                 | توضیحات         |
+|-------|-----------------------|-----------------|
+| 1     | ![تصویر 1](https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue)
+ | این تصویر شماره 1 است |
+| 2     | ![تصویر 1](https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue)
+ | این تصویر شماره 2 است |
+| 3     | ![تصویر 1](https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue)
+ | این تصویر شماره 3 است |
+
+</div>
+
