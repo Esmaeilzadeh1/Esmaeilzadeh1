@@ -381,5 +381,10 @@ skills = {
 | 3     | ![تصویر 1](https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue)
  | این تصویر شماره 3 است |
 
-</div>
-
+| Cell1| Cell2 | Cell3 |
+|------|-------|-------|
+| merge right ||       |
+| merge|       |       |
+| below|^      |^      |
+| merge both  || value1|
+|^            || value2|
