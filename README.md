@@ -275,23 +275,29 @@ skills = {
   <table border="0" align="center">
       <tr align="center">
           <td>
-              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
-                <img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" /><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" /><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
-              </a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=32% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" /></a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=32% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" /></a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=32% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" /></a>
               <br>
-              <a href="#">
-                <img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
-              </a>
+              <a href="#empty"><img width=28.9% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
+              <a href="#empty"><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
+              <a href="#empty"><img width=28.9% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
+              <a href="#empty"><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
+              <a href="#empty"><img width=28.9% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
               <br>
-              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
-                <img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" /><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" /><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
-              </a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=32% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" /></a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=32% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" /></a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=32% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" /></a>
               <br>
-              <a href="#"><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
-              <a href="#"><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
-              <a href="#"><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
-              <a href="#"><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
-              <a href="#empty"><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
+              <a href="#empty"><img width=28.9% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
+              <a href="#empty"><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
+              <a href="#empty"><img width=28.9% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
+              <a href="#empty"><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
+              <a href="#empty"><img width=28.9% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
           </td>
       </tr>
   </table>
