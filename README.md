@@ -278,72 +278,27 @@ skills = {
 <details>
   <summary>Completed projects (Click to expand)</summary>
   <p align="center"></p>
-  <div align="center">
-      <table border="0%">
-<!-- ******************************************** Completed projects Table Row(Repositories) Item ******************************************** -->
-          <tr>
-              <td align="center">
-                  <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
-                      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
-                  </a>
-                  <br>
-                  <a href="#">
-                      <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
-                  </a>
-              </td>
-              <td align="center">
-                  <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
-                      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
-                  </a>
-                  <br>
-                  <a href="#">
-                      <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
-                  </a>
-              </td>
-              <td align="center">
-                  <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1">
-                      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
-                  </a>
-                  <br>
-                  <a href="#">
-                      <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
-                  </a>
-              </td>
-          </tr>
-<!-- ***************************************************************************************************************************************** -->
-<!-- *********************************************** Completed projects Table Row(Gists) Item ************************************************ -->
-          <tr>
-              <td align="center">
-                  <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
-                      <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
-                  </a>
-                  <br>
-                  <a href="#">
-                      <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
-                  </a>
-              </td>
-              <td align="center">
-                  <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
-                      <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
-                  </a>
-                  <br>
-                  <a href="#">
-                      <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
-                  </a>
-              </td>
-              <td align="center">
-                  <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
-                      <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
-                  </a>
-                  <br>
-                  <a href="#">
-                      <img align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
-                  </a>
-              </td>
-          </tr>
-<!-- ***************************************************************************************************************************************** -->
-      </table>
-  </div>
+  <table border="0" align="center">
+      <tr align="center">
+          <td>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
+                <img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" /><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" /><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=F8F8F8&border_radius=9" />
+              </a>
+              <br>
+              <a href="#">
+                <img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
+              </a>
+              <br>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14">
+                <img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" /><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" /><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=32.6% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=F8F8F8&border_radius=9" />
+              </a>
+              <br>
+              <a href="#">
+                <img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" />
+              </a>
+          </td>
+      </tr>
+  </table>
 </details>
 
 <!-- ______________________________________________________________________________________________________________________________ -->
@@ -369,22 +324,3 @@ skills = {
 </p>
 
 <!-- ______________________________________________________________________________________________________________________________ -->
-
-<div align="center" width=100%>
-
-| شماره | تصویر                 | توضیحات         |
-|-------|-----------------------|-----------------|
-| 1     | ![تصویر 1](https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue) <br> ![تصویر 1](https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue)
- | این تصویر شماره 1 است |
-| 2     | ![تصویر 1](https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue)
- | این تصویر شماره 2 است |
-| 3     | ![تصویر 1](https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue)
- | این تصویر شماره 3 است |
-
-| Cell1| Cell2 | Cell3 |
-|------|-------|-------|
-| merge right ||       |
-| merge|       |       |
-| below|^      |^      |
-| merge both  || value1|
-|^            || value2|
