@@ -252,7 +252,7 @@ skills = {
 
 ## 🚀 My Projects 🚀
 <details>
-  <summary>Current Projects (Click to expand)</summary>
+  <summary>Projects in progress (Click to expand)</summary>
   <p align="center"></p>
 <!-- ******************************************** Current Projects Two Item(Reposirories) ******************************************** -->
   <p align="center">
