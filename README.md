@@ -291,7 +291,7 @@ skills = {
               <a href="#"><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
               <a href="#"><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
               <a href="#"><img width=4% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
-              <a href="javascript:void(0)"><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
+              <a href="javascript:;"><img width=29.5% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
           </td>
       </tr>
   </table>
