@@ -251,15 +251,15 @@ skills = {
       <tr align="center">
           <td>
 <!-- ******************************************** Current Projects Two Item(Reposirories) ******************************************** -->
-            <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=ffe5e5&border_radius=9" /></a>
+            <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=fff3cc&border_radius=9" /></a>
             <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" />
-            <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=ffe5e5&border_radius=9" /></a>
+            <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=fff3cc&border_radius=9" /></a>
 <!-- ********************************************************************************************************************************* -->
             <p align="center"></p>
 <!-- ************************************************ Current Projects Two Item(Gists) *********************************************** -->
-            <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=ffe5e5&border_radius=9" /></a>
+            <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=fff3cc&border_radius=9" /></a>
             <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" />
-            <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=ffe5e5&border_radius=9" /></a>
+            <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=fff3cc&border_radius=9" /></a>
 <!-- ********************************************************************************************************************************* -->
           </td>
       </tr>
