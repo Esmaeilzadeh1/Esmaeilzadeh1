@@ -286,6 +286,8 @@ skills = {
               <a href="#empty"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
               <a href="#empty"><img width=30% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
               <br>
+              <a href="#empty"><img align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
+              <br>
 <!-- ************************************************ Completed projects Item(Gists) ************************************************* -->
               <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=e5ffe8&border_radius=9" /></a>
               <a href="#empty"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
