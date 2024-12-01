@@ -11,8 +11,8 @@
 <!-- ############################# ✅GitHub Stats ############################# -->
 
 <p align="center">
-  <a href="#empty"><img width=57.4% align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=000000&icon_color=1F2328&text_color=59636E&bg_color=feffe5&border_radius=9" /></a>
-  <a href="#empty"><img width=39.1% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=000000&text_color=59636E&bg_color=feffe5&theme=transparent&border_radius=9" />
+  <a href="#empty"><img width=57.4% align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=000000&icon_color=1F2328&text_color=59636E&bg_color=F8F8F8&border_radius=9" /></a>
+  <a href="#empty"><img width=39.1% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=000000&text_color=59636E&bg_color=F8F8F8&theme=transparent&border_radius=9" />
   </a>
   </p>
 <!--
@@ -286,9 +286,8 @@ skills = {
               <a href="#empty"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
               <a href="#empty"><img width=30% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
               <br>
-              <a href="#empty"><img align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
-              <br>
 <!-- ************************************************ Completed projects Item(Gists) ************************************************* -->
+              <br>
               <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=e5ffe8&border_radius=9" /></a>
               <a href="#empty"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
               <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=e5ffe8&border_radius=9" /></a>
