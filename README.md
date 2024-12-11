@@ -64,7 +64,7 @@
   <p align="center"><p>
 <!-- ******************************************** Academic profiles Item ******************************************** -->      
       <strong>👉 Mail to My </strong>
-      <a href="mailto:em.esmaeilzadeh@iau.ir">
+      <a href="mailto:am.esmaeilzadeh@iau.ir">
         <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Circle-icons-mail.svg" height="15" width="15" alt="ORCID" />
         <strong>Academic Email</strong>
       </a><strong></strong>
