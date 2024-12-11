@@ -249,15 +249,15 @@ skills = {
       <tr align="center">
           <td>
 <!-- ******************************************** Current Projects Two Item(Reposirories) ******************************************** -->
-            <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=feffdd&border_radius=9" /></a>
+            <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=feffdd&border_radius=0&hide_border=true" /></a>
             <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" />
-            <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=feffdd&border_radius=9" /></a>
+            <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=feffdd&border_radius=0&hide_border=true" /></a>
 <!-- ********************************************************************************************************************************* -->
             <p align="center"></p>
 <!-- ************************************************ Current Projects Two Item(Gists) *********************************************** -->
-            <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=feffdd&border_radius=9" /></a>
+            <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=feffdd&border_radius=0&hide_border=true" /></a>
             <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" />
-            <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=feffdd&border_radius=9" /></a>
+            <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=feffdd&border_radius=0&hide_border=true" /></a>
 <!-- ********************************************************************************************************************************* -->
           </td>
       </tr>
@@ -270,11 +270,11 @@ skills = {
       <tr align="center">
           <td>
 <!-- ******************************************** Completed projects Three Item(Reposirories) ******************************************** -->
-              <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=DDF4FF&border_radius=9" /></a>
+              <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=DDF4FF&border_radius=0&hide_border=true" /></a>
               <a href="#empty"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
-              <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=DDF4FF&border_radius=9" /></a>
+              <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=DDF4FF&border_radius=0&hide_border=true" /></a>
               <a href="#empty"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
-              <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=DDF4FF&border_radius=9" /></a>
+              <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=DDF4FF&border_radius=0&hide_border=true" /></a>
               <br>
 <!-- ********************************************************************************************************************************* -->
 <!-- ************************************************ Completed projects Three Button ************************************************ -->
@@ -285,11 +285,11 @@ skills = {
               <a href="#empty"><img width=30% align="center" src="https://img.shields.io/badge/Project%20Name-See%20Website%20or%20Demo-blue" /></a>
               <br>
 <!-- ************************************************ Completed projects Item(Gists) ************************************************* -->
-              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=DDF4FF&border_radius=9" /></a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=DDF4FF&border_radius=0&hide_border=true" /></a>
               <a href="#empty"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
-              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=DDF4FF&border_radius=9" /></a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=DDF4FF&border_radius=0&hide_border=true" /></a>
               <a href="#empty"><img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" /></a>
-              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=DDF4FF&border_radius=9" /></a>
+              <a href="https://gist.github.com/Esmaeilzadeh1/2c03bbe5cd53bb7359f425a4b991de14"><img width=30% align="center" src="https://github-readme-stats.vercel.app/api/gist?id=2c03bbe5cd53bb7359f425a4b991de14&bg_color=DDF4FF&border_radius=0&hide_border=true" /></a>
               <br>
 <!-- ********************************************************************************************************************************* -->
 <!-- ************************************************ Completed projects Three Button ************************************************ -->
