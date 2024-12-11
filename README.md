@@ -11,9 +11,7 @@
 <!-- ############################# ✅GitHub Stats ############################# -->
 
 <p align="center">
-  <a href="#empty"><img width=57.4% align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=000000&icon_color=1F2328&text_color=59636E&bg_color=F8F8F8&border_radius=9" /></a>
-  <a href="#empty"><img width=39.1% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=000000&text_color=59636E&bg_color=F8F8F8&theme=transparent&border_radius=9" />
-  </a>
+  <a href="#empty"><img width=57.4% align="center" src="https://github-readme-stats.vercel.app/api/?username=Esmaeilzadeh1&rank_icon=github&show_icons=true&title_color=000000&icon_color=1F2328&text_color=59636E&bg_color=F8F8F8&border_radius=0&hide_border=true" /></a><a href="#empty"><img width=39.1% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaeilzadeh1&layout=donut&title_color=000000&text_color=59636E&bg_color=F8F8F8&theme=transparent&border_radius=0&hide_border=true" /></a>
   </p>
 <!--
   <p align="center">
