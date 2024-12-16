@@ -249,7 +249,7 @@ skills = {
       <tr align="center">
           <td>
 <!-- ******************************************** Current Projects Two Item(Reposirories) ******************************************** -->
-            <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=feffdd&border_radius=0&hide_border=true" /></a>
+            <a href="https://github.com/Esmaeilzadeh1/Master-s-Thesis"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Master-s-Thesis&bg_color=feffdd&border_radius=0&hide_border=true" /></a>
             <img width=1% align="center" src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/empty-space.svg" />
             <a href="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1"><img width=48% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Esmaeilzadeh1&repo=Esmaeilzadeh1&bg_color=feffdd&border_radius=0&hide_border=true" /></a>
 <!-- ********************************************************************************************************************************* -->
