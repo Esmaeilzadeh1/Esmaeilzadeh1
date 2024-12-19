@@ -101,9 +101,9 @@
 <!-- ******************************************** Table Row Item ******************************************** --> 
         <tr>
           <th align="center">Course Title</th>
-          <th align="center">Item Logo</th>
+          <th align="center">Badge|Logo</th>
           <th align="center">Course Title</th>
-          <th align="center">Item Logo</th>
+          <th align="center">Badge|Logo</th>
         </tr>
 <!-- ******************************************************************************************************** --> 
       </thead>
