@@ -101,16 +101,16 @@
 <!-- ******************************************** Table Row Item ******************************************** --> 
         <tr>
           <th align="center">Course Title</th>
-          <th align="center">Badge</th>
+          <th align="center">Logo</th>
           <th align="center">Course Title</th>
-          <th align="center">Badge</th>
+          <th align="center">Logo</th>
         </tr>
 <!-- ******************************************************************************************************** --> 
       </thead>
       <tbody>
         <tr>
           <td align="center">Stock Market Swing Trading - Beginner</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=100% alt="tradingview Badge"></a></td>
           <td align="center">Data Mining with RapidMiner</td>
           <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
         </tr>
