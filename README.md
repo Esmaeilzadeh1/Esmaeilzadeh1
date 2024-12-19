@@ -110,69 +110,69 @@
       <tbody>
         <tr>
           <td align="center">Stock Market Swing Trading - Beginner</td>
-          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=40% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=30% alt="tradingview Badge"></a></td>
           <td align="center">Data Mining with RapidMiner</td>
-          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=40% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=30% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">UML Modeling with Rational Rose</td>
-          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=40% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=30% alt="tradingview Badge"></a></td>
           <td align="center">Programming Languages Design and Implementation</td>
-          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=40% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=30% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Pascal Programming</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
           <td align="center">STL Library in C++ for Code Simplification</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">C++ Programming from Beginner to Advanced</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
           <td align="center">Algorithm Design</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Electrical Circuits for Computer Science Master's (Review and Problem Solving)</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
           <td align="center">Data Structures</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Computer Architecture with Problem-Solving Approach - Beginner</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
           <td align="center">Python Programming</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Professional Git, GitHub, and GitLab</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
           <td align="center">Professional LaTeX</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Quantum Computing in Computers</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
           <td align="center">MATLAB Programming</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Seminar, Thesis Writing and Presentation - Specialized in Image Processing and Computer Vision</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
           <td align="center">Professional HTML and CSS</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">HTML for Web Design - Beginner</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
           <td align="center">Project-Based WordPress Development without Coding</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Website Setup and Advanced WordPress</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
           <td align="center">WordPress Basics</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td colspan="4" align="center">And more...</td>
