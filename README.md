@@ -240,8 +240,12 @@ skills = {
 <!-- ______________________________________________________________________________________________________________________________ -->
 
 <!-- ############################# ✅Projects ############################# -->
+<h2><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/stockrocket.gif" width="30"/> My Projects <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/stockrocket.gif" width="30"/></h2>
 
+<!--
 ## 🚀 My Projects 🚀
+-->
+
 <details>
   <summary>Projects in progress (Click to expand)</summary>
   <p align="center"></p>
