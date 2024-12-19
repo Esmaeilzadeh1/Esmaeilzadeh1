@@ -240,7 +240,7 @@ skills = {
 <!-- ______________________________________________________________________________________________________________________________ -->
 
 <!-- ############################# ✅Projects ############################# -->
-<h2><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/stockrocket.gif" width="30"/> My Projects <img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/stockrocket.gif" width="30"/></h2>
+<h2><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/stockrocket.gif" width="30"/></a> My Projects <a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/stockrocket.gif" width="30"/></a></h2>
 
 <!--
 ## 🚀 My Projects 🚀
