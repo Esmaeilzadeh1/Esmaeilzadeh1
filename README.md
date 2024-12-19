@@ -112,13 +112,13 @@
           <td align="center">Stock Market Swing Trading - Beginner</td>
           <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=100% alt="tradingview Badge"></a></td>
           <td align="center">Data Mining with RapidMiner</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=100% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">UML Modeling with Rational Rose</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=100% alt="tradingview Badge"></a></td>
           <td align="center">Programming Languages Design and Implementation</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=100% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Pascal Programming</td>
