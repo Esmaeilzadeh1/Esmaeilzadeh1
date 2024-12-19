@@ -110,9 +110,9 @@
       <tbody>
         <tr>
           <td align="center">Stock Market Swing Trading - Beginner</td>
-          <td align="center"><img src="https://img.shields.io/badge/-tradingview-black?logo=docker&style=flat-square" width=80% alt="tradingview Badge"></td>
+          <td align="center"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></td>
           <td align="center">Data Mining with RapidMiner</td>
-          <td align="center"><img src="https://img.shields.io/badge/-tradingview-black?logo=docker&style=flat-square" width=80% alt="tradingview Badge"></td>
+          <td align="center"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=100% alt="tradingview Badge"></td>
         </tr>
         <tr>
           <td align="center">UML Modeling with Rational Rose</td>
