@@ -101,18 +101,18 @@
 <!-- ******************************************** Table Row Item ******************************************** --> 
         <tr>
           <th align="center">Course Title</th>
-          <th align="center">Domain</th>
+          <th align="center">Badge</th>
           <th align="center">Course Title</th>
-          <th align="center">Domain</th>
+          <th align="center">Badge</th>
         </tr>
 <!-- ******************************************************************************************************** --> 
       </thead>
       <tbody>
         <tr>
           <td align="center">Stock Market Swing Trading - Beginner</td>
-          <td align="center">Finance</td>
+          <td align="center"><img src="https://img.shields.io/badge/-tradingview-black?logo=docker&style=flat-square" width=80% alt="tradingview Badge"></td>
           <td align="center">Data Mining with RapidMiner</td>
-          <td align="center">Data Mining</td>
+          <td align="center"><img src="https://img.shields.io/badge/-tradingview-black?logo=docker&style=flat-square" width=80% alt="tradingview Badge"></td>
         </tr>
         <tr>
           <td align="center">UML Modeling with Rational Rose</td>
