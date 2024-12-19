@@ -101,24 +101,24 @@
 <!-- ******************************************** Table Row Item ******************************************** --> 
         <tr>
           <th align="center">Course Title</th>
-          <th align="center">Logo</th>
+          <th align="center">Item Logo</th>
           <th align="center">Course Title</th>
-          <th align="center">Logo</th>
+          <th align="center">Item Logo</th>
         </tr>
 <!-- ******************************************************************************************************** --> 
       </thead>
       <tbody>
         <tr>
           <td align="center">Stock Market Swing Trading - Beginner</td>
-          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=40% alt="tradingview Badge"></a></td>
           <td align="center">Data Mining with RapidMiner</td>
-          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=40% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">UML Modeling with Rational Rose</td>
-          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=40% alt="tradingview Badge"></a></td>
           <td align="center">Programming Languages Design and Implementation</td>
-          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://simpleicons.org/icons/python.svg" width=40% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Pascal Programming</td>
