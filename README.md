@@ -112,69 +112,69 @@
       <tbody>
         <tr>
           <td align="center">Stock Market Swing Trading - Beginner</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Stock%20Market%20Swing%20Trading%20-%20Beginner.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Stock%20Market%20Swing%20Trading%20-%20Beginner.svg" width=100%></a></td>
           <td align="center">Data Mining with RapidMiner</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Data%20Mining%20with%20RapidMiner%20.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Data%20Mining%20with%20RapidMiner.svg" width=100%></a></td>
         </tr>
         <tr>
           <td align="center">UML Modeling with Rational Rose</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/UML%20Modeling%20with%20Rational%20Rose.webp" width=100%></a></td>
           <td align="center">Programming Languages Design and Implementation</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Programming%20Languages%20Design%20and%20Implementation.png" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Programming%20Languages%20Design%20and%20Implementation.svg" width=100% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Pascal Programming Language</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Pascal%20Programming%20Language.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Pascal%20Programming%20Language.svg" width=100%></a></td>
           <td align="center">STL Library in C++ for Code Simplification</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/STL%20Library%20in%20C%2B%2B%20for%20Code%20Simplification%20.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/STL%20Library%20in%20C%20for%20Code%20Simplification.svg" width=100%></a></td>
         </tr>
         <tr>
           <td align="center">C++ Programming from Beginner to Advanced</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/C%2B%2B%20Programming%20from%20Beginner%20to%20Advanced.png" width=100% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/C%20plus%20plus%20Programming%20from%20Beginner%20to%20Advanced.svg" width=100% alt="tradingview Badge"></a></td>
           <td align="center">Algorithm Design</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Algorithm%20Design.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Algorithm%20Design.svg" width=100%></a></td>
         </tr>
         <tr>
           <td align="center">Electrical Circuits for Computer Science Master's (Review and Problem Solving)</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Electrical%20Circuits%20for%20Computer%20Science%20Master's%20(Review%20and%20Problem%20Solving).png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Electrical%20Circuits%20for%20Computer%20Science%20Masters%20(Review%20and%20Problem%20Solving).svg" width=100%></a></td>
           <td align="center">Data Structures</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Data%20Structures.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Data%20Structures.svg" width=100%></a></td>
         </tr>
         <tr>
           <td align="center">Computer Architecture with Problem-Solving Approach - Beginner</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Computer%20Architecture%20with%20Problem-Solving%20Approach%20-%20Beginner.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Computer%20Architecture%20with%20Problem-Solving%20Approach%20-%20Beginner.svg" width=100%></a></td>
           <td align="center">Python Programming</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Python%20Programming.webp" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Python%20Programming.svg" width=100%></a></td>
         </tr>
         <tr>
           <td align="center">Professional Git, GitHub, and GitLab</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Professional%20Git%2C%20GitHub%2C%20and%20GitLab.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Professional%20Git%2C%20GitHub%2C%20and%20GitLab.svg" width=100%></a></td>
           <td align="center">Professional LaTeX</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Professional%20LaTeX.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Professional%20LaTeX.svg" width=100%></a></td>
         </tr>
         <tr>
           <td align="center">Quantum Computing in Computers</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Quantum%20Computing%20in%20Computers.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Quantum%20Computing%20in%20Computers.svg" width=100%></a></td>
           <td align="center">MATLAB Programming</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/MATLAB%20Programming.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/MATLAB%20Programming.svg" width=100%></a></td>
         </tr>
         <tr>
           <td align="center">Seminar, Thesis Writing and Presentation - Specialized in Image Processing and Computer Vision</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Seminar%2C%20Thesis%20Writing%20and%20Presentation%20-%20Specialized%20in%20Image%20Processing%20and%20Computer%20Vision.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Seminar%2C%20Thesis%20Writing%20and%20Presentation%20-%20Specialized%20in%20Image%20Processing%20and%20Computer%20Vision.svg" width=100%></a></td>
           <td align="center">Professional HTML and CSS</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Professional%20HTML%20and%20CSS.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Professional%20HTML%20and%20CSS.svg" width=100%></a></td>
         </tr>
         <tr>
           <td align="center">HTML for Web Design - Beginner</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/HTML%20for%20Web%20Design%20-%20Beginner.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/HTML%20for%20Web%20Design%20-%20Beginner.svg" width=100%></a></td>
           <td align="center">Project-Based WordPress Development without Coding</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Website%20Setup%20and%20Advanced%20WordPress.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Website%20Setup%20and%20Advanced%20WordPress.svg" width=100%></a></td>
         </tr>
         <tr>
           <td align="center">Website Setup and Advanced WordPress</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Website%20Setup%20and%20Advanced%20WordPress.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Website%20Setup%20and%20Advanced%20WordPress.svg" width=100%></a></td>
           <td align="center">WordPress Basics</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Website%20Setup%20and%20Advanced%20WordPress.png" width=100%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Website%20Setup%20and%20Advanced%20WordPress.svg" width=100%></a></td>
         </tr>
         <tr>
           <td colspan="4" align="center">And more...</td>
