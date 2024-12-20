@@ -59,7 +59,8 @@
 </ul>
 <details>
   <summary>Academic profiles (Click to expand)</summary>
-  <p align="center"><p>
+  <p align="center"></p>
+  <p align="center">
 <!-- ******************************************** Academic profiles Item ******************************************** -->      
       <strong>👉 Mail to My </strong>
       <a href="mailto:am.esmaeilzadeh@iau.ir">
@@ -80,6 +81,7 @@
         <strong>ResearchGate</strong>
       </a><strong>Profile</strong>
       <br>
+  </p>
 </details>
 
 <!-- ______________________________________________________________________________________________________________________________ -->
