@@ -112,7 +112,7 @@
           <td align="center">Stock Market Swing Trading - Beginner</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Stock%20Market%20Swing%20Trading%20-%20Beginner.png" width=25% alt="tradingview Badge"></a></td>
           <td align="center">Data Mining with RapidMiner</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Data%20Mining%20with%20RapidMiner%20.png" width=25% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Data%20Mining%20with%20RapidMiner%20.png" width=35% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">UML Modeling with Rational Rose</td>
@@ -124,17 +124,17 @@
           <td align="center">Pascal Programming Language</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Pascal%20Programming%20Language.png" width=25% alt="tradingview Badge"></a></td>
           <td align="center">STL Library in C++ for Code Simplification</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-C++-black?logo=cplusplus&style=flat-square" width=90% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/STL%20Library%20in%20C%2B%2B%20for%20Code%20Simplification%20.png" width=17% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">C++ Programming from Beginner to Advanced</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=flat-square" width=70% alt="tradingview Badge"></a></td>
           <td align="center">Algorithm Design</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Algorithm%20Design.png" width=18% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Electrical Circuits for Computer Science Master's (Review and Problem Solving)</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Electrical%20Circuits%20for%20Computer%20Science%20Master's%20(Review%20and%20Problem%20Solving).png" width=18% alt="tradingview Badge"></a></td>
           <td align="center">Data Structures</td>
           <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
         </tr>
