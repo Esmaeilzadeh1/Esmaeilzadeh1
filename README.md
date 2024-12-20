@@ -143,7 +143,7 @@
         <tr>
           <td align="center">Computer Architecture with Problem-Solving Approach - Beginner</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Computer%20Architecture%20with%20Problem-Solving%20Approach%20-%20Beginner.svg" width=100%></a></td>
-          <td align="center">Python Programming</td>
+          <td align="center">Python Programming Language</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Python%20Programming.svg" width=100%></a></td>
         </tr>
         <tr>
