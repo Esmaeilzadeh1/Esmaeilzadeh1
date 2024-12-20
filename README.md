@@ -102,10 +102,10 @@
       <thead>
 <!-- ******************************************** Table Row Item ******************************************** --> 
         <tr>
-          <th align="center">Course Title</th>
-          <th align="center">Badge or Logo</th>
-          <th align="center">Course Title</th>
-          <th align="center">Badge or Logo</th>
+          <th align="center" width=30%>Course Title</th>
+          <th align="center" width=20%>Logo</th>
+          <th align="center" width=30%>Course Title</th>
+          <th align="center" width=20%>Logo</th>
         </tr>
 <!-- ******************************************************************************************************** --> 
       </thead>
