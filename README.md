@@ -130,7 +130,7 @@
         </tr>
         <tr>
           <td align="center">C++ Programming from Beginner to Advanced</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-C++-black?logo=cplusplus&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/C%2B%2B%20Programming%20from%20Beginner%20to%20Advanced.png" width=25% alt="tradingview Badge"></a></td>
           <td align="center">Algorithm Design</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Algorithm%20Design.png" width=25% alt="tradingview Badge"></a></td>
         </tr>
@@ -144,13 +144,13 @@
           <td align="center">Computer Architecture with Problem-Solving Approach - Beginner</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Computer%20Architecture%20with%20Problem-Solving%20Approach%20-%20Beginner.png" width=25% alt="tradingview Badge"></a></td>
           <td align="center">Python Programming</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-Python-black?logo=python&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="[https://img.shields.io/badge/-Python-black?logo=python&style=flat-square](https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Python%20Programming.webp)" width=25% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Professional Git, GitHub, and GitLab</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-git-black?logo=git&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Professional%20Git%2C%20GitHub%2C%20and%20GitLab.png" width=25% alt="tradingview Badge"></a></td>
           <td align="center">Professional LaTeX</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-LaTeX-black?logo=latex&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Professional%20LaTeX.png" width=25% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Quantum Computing in Computers</td>
@@ -162,22 +162,19 @@
           <td align="center">Seminar, Thesis Writing and Presentation - Specialized in Image Processing and Computer Vision</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Seminar%2C%20Thesis%20Writing%20and%20Presentation%20-%20Specialized%20in%20Image%20Processing%20and%20Computer%20Vision.png" width=25% alt="tradingview Badge"></a></td>
           <td align="center">Professional HTML and CSS</td>
-          <td align="center">
-            <a href="#empty"><img src="https://img.shields.io/badge/-HTML-black?logo=html5&style=flat-square" width=70% alt="tradingview Badge"></a>
-            <a href="#empty"><img src="https://img.shields.io/badge/-CSS-black?logo=css3&style=flat-square" width=70% alt="tradingview Badge"></a>
-          </td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Professional%20HTML%20and%20CSS.png" width=25% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">HTML for Web Design - Beginner</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/HTML%20for%20Web%20Design%20-%20Beginner.png" width=25% alt="tradingview Badge"></a></td>
           <td align="center">Project-Based WordPress Development without Coding</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-Wordpress-black?logo=wordpress&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Website%20Setup%20and%20Advanced%20WordPress.png" width=25% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Website Setup and Advanced WordPress</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Website%20Setup%20and%20Advanced%20WordPress.png" width=25% alt="tradingview Badge"></a></td>
           <td align="center">WordPress Basics</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-Wordpress-black?logo=wordpress&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="[https://img.shields.io/badge/-Wordpress-black?logo=wordpress&style=flat-square](https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Website%20Setup%20and%20Advanced%20WordPress.png)" width=25% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td colspan="4" align="center">And more...</td>
