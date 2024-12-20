@@ -152,9 +152,9 @@
         </tr>
         <tr>
           <td align="center">Quantum Computing in Computers</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Quantum%20Computing%20in%20Computers.png" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Quantum%20Computing%20in%20Computers.png" width=25% alt="tradingview Badge"></a></td>
           <td align="center">MATLAB Programming</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/MATLAB%20Programming.png" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/MATLAB%20Programming.png" width=25% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Seminar, Thesis Writing and Presentation - Specialized in Image Processing and Computer Vision</td>
