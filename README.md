@@ -114,7 +114,7 @@
           <td align="center">Stock Market Swing Trading - Beginner</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Stock%20Market%20Swing%20Trading%20-%20Beginner.png" width=25%></a></td>
           <td align="center">Data Mining with RapidMiner</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Data%20Mining%20with%20RapidMiner%20.png" width=50%></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Data%20Mining%20with%20RapidMiner%20.png" width=25%></a></td>
         </tr>
         <tr>
           <td align="center">UML Modeling with Rational Rose</td>
