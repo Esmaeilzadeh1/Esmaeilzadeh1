@@ -112,7 +112,7 @@
           <td align="center">Stock Market Swing Trading - Beginner</td>
           <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Stock%20Market%20Swing%20Trading%20-%20Beginner.png" width=25% alt="tradingview Badge"></a></td>
           <td align="center">Data Mining with RapidMiner</td>
-          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Data%20Mining%20with%20RapidMiner%20.png" width=45% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Data%20Mining%20with%20RapidMiner%20.png" width=50% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">UML Modeling with Rational Rose</td>
@@ -146,15 +146,15 @@
         </tr>
         <tr>
           <td align="center">Professional Git, GitHub, and GitLab</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=python&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-git-black?logo=git&style=flat-square" width=70% alt="tradingview Badge"></a></td>
           <td align="center">Professional LaTeX</td>
           <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Quantum Computing in Computers</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/Quantum%20Computing%20in%20Computers.png" width=70% alt="tradingview Badge"></a></td>
           <td align="center">MATLAB Programming</td>
-          <td align="center"><a href="#empty"><img src="https://img.shields.io/badge/-tradingview-black?logo=tradingview&style=flat-square" width=70% alt="tradingview Badge"></a></td>
+          <td align="center"><a href="#empty"><img src="https://github.com/Esmaeilzadeh1/Esmaeilzadeh1/blob/main/Experience%20Badges%20or%20Icons/MATLAB%20Programming.png" width=70% alt="tradingview Badge"></a></td>
         </tr>
         <tr>
           <td align="center">Seminar, Thesis Writing and Presentation - Specialized in Image Processing and Computer Vision</td>
